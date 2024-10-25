@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fulici.github.io/</loc>
-    <lastmod>2024-10-25T13:57:43+08:00</lastmod>
+    <lastmod>2024-10-25T21:30:38+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +15,8 @@
                 href="https://fulici.github.io/"
                 />
   </url><url>
-    <loc>https://fulici.github.io/p/myfirstblog/</loc>
-    <lastmod>2024-10-25T13:57:43+08:00</lastmod>
-  </url><url>
     <loc>https://fulici.github.io/post/</loc>
-    <lastmod>2024-10-25T13:57:43+08:00</lastmod>
+    <lastmod>2024-10-25T21:30:38+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +27,12 @@
                 hreflang="zh-cn"
                 href="https://fulici.github.io/post/"
                 />
+  </url><url>
+    <loc>https://fulici.github.io/p/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2024-10-25T21:30:38+08:00</lastmod>
+  </url><url>
+    <loc>https://fulici.github.io/p/myfirstblog/</loc>
+    <lastmod>2024-10-25T13:57:43+08:00</lastmod>
   </url><url>
     <loc>https://fulici.github.io/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
