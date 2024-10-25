@@ -7,7 +7,400 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>佛狸祠-fulici</copyright>
-        <lastBuildDate>Fri, 25 Oct 2024 21:30:38 +0800</lastBuildDate><atom:link href="https://fulici.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 25 Oct 2024 21:55:36 +0800</lastBuildDate><atom:link href="https://fulici.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo&#43;Github免费部署个人博客</title>
+        <link>https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Fri, 25 Oct 2024 21:55:36 +0800</pubDate>
+        
+        <guid>https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+        <description>&lt;h2 id=&#34;教程hugogithub免费部署自己的博客&#34;&gt;【教程】Hugo+Github免费部署自己的博客
+&lt;/h2&gt;&lt;h3 id=&#34;1环境准备&#34;&gt;1.环境准备
+&lt;/h3&gt;&lt;h4 id=&#34;11git下载&#34;&gt;1.1Git下载
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;前往【&lt;a class=&#34;link&#34; href=&#34;https://git-scm.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Git官网&lt;/a&gt;】,下载安装程序&lt;/li&gt;
+&lt;li&gt;一直点下一步，默认安装即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;12hugo下载&#34;&gt;1.2Hugo下载
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;前往【 [Hugo Github Tags](&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/tags&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Tags · gohugoio/hugo (github.com)&lt;/a&gt;)】，选择对应版本下载，下载后解压即可&lt;/li&gt;
+&lt;li&gt;Windows下载版本：&lt;strong&gt;hugo_extended_xxxxx_windows_amd64.zip&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/8f4e04c3-c0c4-45aa-81f8-22f4a3e30c99.png&#34;
+	width=&#34;1541&#34;
+	height=&#34;192&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/8f4e04c3-c0c4-45aa-81f8-22f4a3e30c99_hu2565044473101305975.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/8f4e04c3-c0c4-45aa-81f8-22f4a3e30c99_hu3660113455275089432.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;loading-ag-293&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;802&#34;
+		data-flex-basis=&#34;1926px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2搭建博客&#34;&gt;2.搭建博客
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;打开解压文件，在文件夹上面输入&lt;strong&gt;cmd&lt;/strong&gt; 进入命令行，输入&lt;code&gt; hugo new site dev&lt;/code&gt; 创建&lt;strong&gt;dev&lt;/strong&gt; 文件夹&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把&lt;strong&gt;hugo.exe&lt;/strong&gt; 复制添加到刚刚创建的&lt;strong&gt;dev&lt;/strong&gt; 文件夹&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;命令行中输入&lt;code&gt;cd dev&lt;/code&gt; 进入dev文件夹，输入&lt;code&gt; hugo server -D&lt;/code&gt; 启动博客&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在浏览器中输入&lt;code&gt;http://localhost:1313/&lt;/code&gt; ,进入博客，显示如下：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/3938abfb-fd34-468e-a8cd-fb1c92af326d.png&#34;
+	width=&#34;454&#34;
+	height=&#34;135&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/3938abfb-fd34-468e-a8cd-fb1c92af326d_hu16503710057517140711.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/3938abfb-fd34-468e-a8cd-fb1c92af326d_hu2209765924910927292.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;loading-ag-305&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;336&#34;
+		data-flex-basis=&#34;807px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;    此时，服务已经搭好了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;进入&lt;strong&gt;Hugo&lt;/strong&gt;官网，下载一个自己喜欢的主题（&lt;code&gt;这里选择“Stack”主题&lt;/code&gt;）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;跳转到&lt;strong&gt;Github&lt;/strong&gt; 网站，点击&lt;strong&gt;Tags&lt;/strong&gt; ,选择一个版本，下载&lt;strong&gt;Source code(zip)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/c22f6add-ec1a-49d5-962f-26830b6d9a5a.png&#34;
+	width=&#34;468&#34;
+	height=&#34;253&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/c22f6add-ec1a-49d5-962f-26830b6d9a5a_hu8808582294975832603.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/c22f6add-ec1a-49d5-962f-26830b6d9a5a_hu13144302021724040928.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;loading-ag-310&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;184&#34;
+		data-flex-basis=&#34;443px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/453f14a4-0c28-4a8c-affa-b3d7ceb22675.png&#34;
+	width=&#34;243&#34;
+	height=&#34;75&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/453f14a4-0c28-4a8c-affa-b3d7ceb22675_hu7649435220116947629.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/453f14a4-0c28-4a8c-affa-b3d7ceb22675_hu1890956452713584731.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;loading-ag-312&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;324&#34;
+		data-flex-basis=&#34;777px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;下载后解压，把解压后的文件放到&lt;strong&gt;themes&lt;/strong&gt; 文件夹中&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把主题文件夹&lt;strong&gt;exampleSite（样例文件）&lt;/strong&gt; 文件中的&lt;strong&gt;content&lt;/strong&gt; 和&lt;strong&gt;hugo.yaml&lt;/strong&gt; 文件复制一份放到&lt;strong&gt;dev&lt;/strong&gt; 文件夹中&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/c2f55155-18fa-4a3a-b910-cd8ee30d3e65.png&#34;
+	width=&#34;230&#34;
+	height=&#34;155&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/c2f55155-18fa-4a3a-b910-cd8ee30d3e65_hu3263799840656341690.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/c2f55155-18fa-4a3a-b910-cd8ee30d3e65_hu13333566099000978809.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;loading-ag-314&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;148&#34;
+		data-flex-basis=&#34;356px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;复制后，删除&lt;strong&gt;hugo.toml&lt;/strong&gt; 文件，两个文件作用 &lt;strong&gt;（配置文件）&lt;/strong&gt; 一样，只是后缀不一样，删除一个。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/8aa96401-b8cf-4bf6-aa29-2602e61c754b.png&#34;
+	width=&#34;188&#34;
+	height=&#34;63&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/8aa96401-b8cf-4bf6-aa29-2602e61c754b_hu8597250156806166673.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/8aa96401-b8cf-4bf6-aa29-2602e61c754b_hu8521504926745962001.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;loading-ag-316&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;298&#34;
+		data-flex-basis=&#34;716px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;删除&lt;strong&gt;dev/content/post&lt;/strong&gt;中的&lt;strong&gt;rich-content&lt;/strong&gt; 文件，&lt;strong&gt;rich-content&lt;/strong&gt; 文件中引用了&lt;strong&gt;YouTube&lt;/strong&gt; 的视频，可能会访问超时，导致项目无法启动&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/e462c900-7b77-4d9d-85a5-6c10632b32fa.png&#34;
+	width=&#34;208&#34;
+	height=&#34;180&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/e462c900-7b77-4d9d-85a5-6c10632b32fa_hu12720691261742337066.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/e462c900-7b77-4d9d-85a5-6c10632b32fa_hu1186867055121843501.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;loading-ag-318&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;115&#34;
+		data-flex-basis=&#34;277px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;用记事本打开配置文件&lt;strong&gt;hugo.yaml&lt;/strong&gt; ，进行配置。【参考博客配置文件】&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;文章位置：&lt;strong&gt;dev/content/post&lt;/strong&gt; ，其中的文件夹名就是文章名。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/45959f66-87b0-4a35-b2d0-3f7423e33db7.png&#34;
+	width=&#34;184&#34;
+	height=&#34;146&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/45959f66-87b0-4a35-b2d0-3f7423e33db7_hu202966995025454009.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/45959f66-87b0-4a35-b2d0-3f7423e33db7_hu16821264775817826768.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;loading-ag-320&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;126&#34;
+		data-flex-basis=&#34;302px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修改文章编码：&lt;strong&gt;en-英文&lt;/strong&gt; ，没有后缀为默认&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/2fdecee2-e8a7-4125-90cc-6a8a9bda4603.png&#34;
+	width=&#34;226&#34;
+	height=&#34;123&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/2fdecee2-e8a7-4125-90cc-6a8a9bda4603_hu3916368381548257084.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/2fdecee2-e8a7-4125-90cc-6a8a9bda4603_hu2700528968451026764.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2fdecee2e8a7412590cc6a8a9bda4603&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;183&#34;
+		data-flex-basis=&#34;440px&#34;
+	
+&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/2b1fc36e-5725-4f1a-a57e-175eeb6c19c2.png&#34;
+	width=&#34;100&#34;
+	height=&#34;114&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/2b1fc36e-5725-4f1a-a57e-175eeb6c19c2_hu2578152766183024176.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/2b1fc36e-5725-4f1a-a57e-175eeb6c19c2_hu934290691381042925.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;loading-ag-325&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;87&#34;
+		data-flex-basis=&#34;210px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;创建一篇新文章，命令行输入&lt;code&gt; hugo new content post/myFirstBlog/index.md&lt;/code&gt; ,然后重启项目，刷新博客界面&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;更改左边的英文为中文，&lt;strong&gt;dev/content/page&lt;/strong&gt; ,然后逐个打开markdown文档进行修改&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3github常规部署&#34;&gt;3.Github常规部署
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在&lt;strong&gt;GitHub&lt;/strong&gt; 上创建仓库，仓库名为：&lt;code&gt; fulici.github.io&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在本地更改&lt;code&gt; hugo.yaml&lt;/code&gt; 配置文件，更改&lt;strong&gt;baseurl:&lt;/strong&gt; &lt;code&gt; https://fulici.github.io&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;删除&lt;strong&gt;public&lt;/strong&gt; 文件，在命令行中输入&lt;code&gt; hugo -D&lt;/code&gt; 重新生产 &lt;strong&gt;public&lt;/strong&gt; 文件，此时， &lt;strong&gt;public&lt;/strong&gt; 文件中的内容即为要上传的网页内容&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后在 &lt;strong&gt;public&lt;/strong&gt; 文件目录下，命令行依次输入以下命令:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt; git init&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt; git add .&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt; git commit -m &amp;quot;first commit&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt; git branch -M main&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;git remote add origin https://github.com/fulici/fulici.github.io.git&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt; git push -u origin main&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;开启静态页面，&lt;strong&gt;Seetings-&amp;gt;Pages&lt;/strong&gt; ，选择&lt;strong&gt;main&lt;/strong&gt; 分支，在此页面显示&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://fulici.github.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://fulici.github.io/&lt;/a&gt;&lt;/strong&gt; 时，点击这个链接即可看到&lt;strong&gt;部署好的博客&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4github自动部署&#34;&gt;4.Github自动部署
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在&lt;strong&gt;GitHub&lt;/strong&gt; 上创建一个新仓库&lt;code&gt; hugo-main&lt;/code&gt; 用于存储&lt;strong&gt;hugo主文件&lt;/strong&gt; ，仓库设置为&lt;strong&gt;私有&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在&lt;strong&gt;hugo主文件&lt;/strong&gt; 中创建&lt;code&gt; .gitignore&lt;/code&gt; ，用于忽略上传文件 ：&lt;code&gt;public&lt;/code&gt; ，&lt;code&gt;resources&lt;/code&gt; ，&lt;code&gt;.hugo build.lock&lt;/code&gt; ，&lt;code&gt;hugo.exe&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后在&lt;strong&gt;dev&lt;/strong&gt; 文件目录下，命令行依次输入以下命令：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;git init&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git add .&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git commit -m &amp;quot;first commit&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git branch -M main&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git remote add origin https://github.com/fulici/hugo-main.git&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git push -u origin main&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;获取&lt;strong&gt;TOKEN&lt;/strong&gt; &lt;code&gt;Settings -&amp;gt; Secrets and variables -&amp;gt; Actions&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/b824b439-5a02-4d38-b46f-12efb5c42568.png&#34;
+	width=&#34;1460&#34;
+	height=&#34;278&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/b824b439-5a02-4d38-b46f-12efb5c42568_hu14622666819469377780.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/b824b439-5a02-4d38-b46f-12efb5c42568_hu8522300203310460022.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;525&#34;
+		data-flex-basis=&#34;1260px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/ddcc96f6-5d37-4d87-bd7d-a03742fe2602.png&#34;
+	width=&#34;856&#34;
+	height=&#34;696&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/ddcc96f6-5d37-4d87-bd7d-a03742fe2602_hu8534998230821980589.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/ddcc96f6-5d37-4d87-bd7d-a03742fe2602_hu12828010619481892311.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;295px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这个码要记住，只显示一次&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/64f22323-b234-4d9b-bb81-725378a1ab10.png&#34;
+	width=&#34;870&#34;
+	height=&#34;85&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/64f22323-b234-4d9b-bb81-725378a1ab10_hu4839236011685025804.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/64f22323-b234-4d9b-bb81-725378a1ab10_hu4091472225613416023.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;1023&#34;
+		data-flex-basis=&#34;2456px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;填入刚刚的码&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/6e77c7ed-0d95-479d-8dea-772309f97681.png&#34;
+	width=&#34;1254&#34;
+	height=&#34;845&#34;
+	srcset=&#34;https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/6e77c7ed-0d95-479d-8dea-772309f97681_hu3660245885367846593.png 480w, https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/6e77c7ed-0d95-479d-8dea-772309f97681_hu6363616398859216173.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;148&#34;
+		data-flex-basis=&#34;356px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;回到电脑本地的&lt;strong&gt;dev主文件&lt;/strong&gt; ，创建一个&lt;code&gt;.github/workflows/xxxx.yaml&lt;/code&gt; 文件，将以下内容复制进去
+name: deploy&lt;/p&gt;
+&lt;h1 id=&#34;代码提交到main分支时触发github-action&#34;&gt;代码提交到main分支时触发github action
+&lt;/h1&gt;&lt;p&gt;on:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;push:
+  branches:
+    - main
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;jobs:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;deploy:
+  runs-on: ubuntu-latest
+  steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+            fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+            hugo-version: &amp;quot;latest&amp;quot;
+            extended: true
+
+      - name: Build Web
+        run: hugo -D
+
+      - name: Deploy Web
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+            PERSONAL_TOKEN: ${{ secrets.你的token变量名 }}
+            EXTERNAL_REPOSITORY: 你的github名/你的仓库名
+            PUBLISH_BRANCH: main
+            PUBLISH_DIR: ./public
+            commit_message: auto deploy
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;创建一个新文章进行测试，命令行输入&lt;code&gt; hugo new content post/自动部署测试/index.md&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后命令行输入&lt;code&gt;hugo server -D&lt;/code&gt; 启动博客，先在本地查看刚刚的博客是否显示&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后&lt;strong&gt;push代码&lt;/strong&gt; ，命令行依次输入：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;git add .&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;git commit -m &amp;quot;update&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;git push&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;回到&lt;strong&gt;Github的hugo-main&lt;/strong&gt; 仓库，以下界面出现则&lt;strong&gt;部署成功&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>自动部署测试</title>
         <link>https://fulici.github.io/p/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Fri, 25 Oct 2024 21:30:38 +0800</pubDate>
