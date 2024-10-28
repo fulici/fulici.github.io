@@ -7,7 +7,38 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>佛狸祠-fulici</copyright>
-        <lastBuildDate>Fri, 25 Oct 2024 21:55:36 +0800</lastBuildDate><atom:link href="https://fulici.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://fulici.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>更新计划</title>
+        <link>https://fulici.github.io/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/</link>
+        <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://fulici.github.io/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/</guid>
+        <description>&lt;h2 id=&#34;近期安排&#34;&gt;近期安排
+&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;更新计划&lt;/th&gt;
+          &lt;th&gt;是否完成&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;网页背景&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;资源链接网站&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;…………&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        <item>
         <title>Hugo&#43;Github免费部署个人博客</title>
         <link>https://fulici.github.io/p/hugo-github%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
         <pubDate>Fri, 25 Oct 2024 21:55:36 +0800</pubDate>
