@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>网安安全 on 佛狸祠-fulici</title>
+        <link>https://fulici.github.io/categories/%E7%BD%91%E5%AE%89%E5%AE%89%E5%85%A8/</link>
+        <description>Recent content in 网安安全 on 佛狸祠-fulici</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>佛狸祠-fulici</copyright>
+        <lastBuildDate>Fri, 01 Nov 2024 21:07:27 +0800</lastBuildDate><atom:link href="https://fulici.github.io/categories/%E7%BD%91%E5%AE%89%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>网安学习Day01</title>
+        <link>https://fulici.github.io/p/%E7%BD%91%E5%AE%89%E5%AD%A6%E4%B9%A0day01/</link>
+        <pubDate>Fri, 01 Nov 2024 21:07:27 +0800</pubDate>
+        
+        <guid>https://fulici.github.io/p/%E7%BD%91%E5%AE%89%E5%AD%A6%E4%B9%A0day01/</guid>
+        <description>&lt;h2 id=&#34;网安学习-day01&#34;&gt;网安学习-Day01
+&lt;/h2&gt;&lt;h3 id=&#34;学习方法&#34;&gt;学习方法
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;基于体系学习&lt;/li&gt;
+&lt;li&gt;做笔记&lt;/li&gt;
+&lt;li&gt;动手练习&lt;/li&gt;
+&lt;li&gt;复习&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;如何保持学习的动力&#34;&gt;如何保持学习的动力
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;明确学习的意义——我可以获得什么？&lt;/li&gt;
+&lt;li&gt;找到自己的标杆——&lt;/li&gt;
+&lt;li&gt;明确自己的目标——具体、清晰、有截止时间的目标&lt;/li&gt;
+&lt;li&gt;设置阶段性的奖励——反馈机制，延迟满足&lt;/li&gt;
+&lt;li&gt;加入进度计划检查——学习日历（第一节课程资料）“进度计划” 里程碑。【至少一个月检查学习进度】&lt;/li&gt;
+&lt;li&gt;保持良好的精力——不要熬夜、保持充足的休息、锻炼身体&lt;/li&gt;
+&lt;li&gt;一群人走得更远——&lt;/li&gt;
+&lt;li&gt;保持专注的方法——番茄工作法、“远离手机”APP&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;功不唐捐&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;如何快速解决技术问题&#34;&gt;如何快速解决技术问题
+&lt;/h3&gt;&lt;h4 id=&#34;状况&#34;&gt;状况
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;不会搜索&lt;/li&gt;
+&lt;li&gt;问题描述不清楚&lt;/li&gt;
+&lt;li&gt;不看文档&lt;/li&gt;
+&lt;li&gt;不细心&lt;/li&gt;
+&lt;li&gt;不看错误提示&lt;/li&gt;
+&lt;li&gt;……&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;基础资料&#34;&gt;基础资料
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;教程合集——第一节课课程资料&lt;/li&gt;
+&lt;li&gt;常见问题——课程首页链接：https://docs.qq.com/doc/DT3RxQ0tzswl3TGZl&lt;/li&gt;
+&lt;li&gt;视频下方的提问&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;解决问题的步骤&#34;&gt;解决问题的步骤
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;澄清自己的问题——背景、预期结果、自己的操作、环境、附件（截图、代码文件）【注：不要用代词】&lt;/li&gt;
+&lt;li&gt;思考分析问题原因——你觉得原因可能是什么原因？
+&lt;ul&gt;
+&lt;li&gt;搜索技巧——增减内容、调整顺序、替换同义词、更换搜索引擎/平台、切换中文英文&lt;/li&gt;
+&lt;li&gt;分析思维——成功需要具备哪些前提？问题可能出现在哪个环节？&lt;/li&gt;
+&lt;li&gt;对比思维——与成功的环境、流程、内容对比；细心非常重要；对比软件&lt;strong&gt;Ultra Compare&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;查看日志——单步调试；F12；打印变量 echo $sql；软件运行日志（Apache、应用等）journalctl -xe、httpd.exe -t；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;尝试自行解决&lt;/li&gt;
+&lt;li&gt;求助老师/同学
+&lt;ul&gt;
+&lt;li&gt;提问渠道&lt;/li&gt;
+&lt;li&gt;提问格式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;【总结】&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;教程合集是个宝库&lt;/li&gt;
+&lt;li&gt;谷歌一下，你就知道&lt;/li&gt;
+&lt;li&gt;信心（冷静）+耐心（尝试）+细心（对比）&lt;/li&gt;
+&lt;li&gt;问题描述清楚&lt;/li&gt;
+&lt;li&gt;提前准备好工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;如何提升学习效率&#34;&gt;如何提升学习效率
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;建议如下：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;【提前规划】在第一节课课程资料，下载“学习日历”模板，花时间做好计划，严格把控时间&lt;/li&gt;
+&lt;li&gt;【坚持不懈】学习《&lt;a class=&#34;link&#34; href=&#34;https://www.bafangwy.com/study?courseNo=2674&amp;amp;sectionNo=105776&amp;amp;courseVersionId=3570&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;如何保持学习的动力&lt;/a&gt;》，坚持学习，绝不松懈&lt;/li&gt;
+&lt;li&gt;【倍速播放】在能听得清的情况下，调整视频倍速，比如1.5倍&lt;/li&gt;
+&lt;li&gt;【双屏显示】有条件的&lt;a class=&#34;link&#34; href=&#34;https://wiki.bafangwy.com/doc/654/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;再买一个显示器&lt;/a&gt;，这样可以边听课便做笔记和练习，减少窗口切换&lt;/li&gt;
+&lt;li&gt;【不敲代码】如果时间有限，可以直接下载老师的代码运行，理解代码，不需要一行行一个个字母敲&lt;/li&gt;
+&lt;li&gt;【周末赶工】利用好周末和节假日的时间，加快一下进度（减少或者杜绝娱乐消遣活动）&lt;/li&gt;
+&lt;li&gt;【专心致志】听课的时候保持专注，排除干扰（把手机锁定，比如“远离手机”App），减少中断；环境噪音可以买降噪耳机解决&lt;/li&gt;
+&lt;li&gt;【及时提问】遇到各种问题及时问老师，不要浪费太多时间&lt;/li&gt;
+&lt;li&gt;【请求支持】对于家庭生活需要占用的时间（比如陪孩子等），可以请求家人的支持和理解，这几个月更多时间花在学习上&lt;/li&gt;
+&lt;li&gt;【加快效率】对于加班占用的时间，可以提升工作效率；或者在上班时间看一些文字资料&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;学习方法：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;千万不要以为听课听完就学会了。只有能讲给别人听，才是真正的学会了。你说不清楚，就代表没学懂。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;深度学习是主动的，为了应用的。而不是被动的，为了应付考试的。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;不要认为自己是过目不忘的人，复习的时间是必须要投入的。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;如果我是一个老师，我会怎么给别人讲这个知识？&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;主要是适合课堂、会议等场合。网络安全课程还是建议用云笔记。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;阅读不是从从第一页开始翻，逐字看，看完了就结束了。而是要分流程步骤，带着目的去读，读后有反思总结。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;结束……&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
