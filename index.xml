@@ -7,13 +7,649 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>佛狸祠-fulici</copyright>
-        <lastBuildDate>Fri, 01 Nov 2024 21:07:27 +0800</lastBuildDate><atom:link href="https://fulici.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 02 Nov 2024 13:33:29 +0800</lastBuildDate><atom:link href="https://fulici.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>04 Linux操作系统 Day02</title>
+        <link>https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/</link>
+        <pubDate>Sat, 02 Nov 2024 13:33:29 +0800</pubDate>
+        
+        <guid>https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/</guid>
+        <description>&lt;img src="https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/3D7C6AF8CE0701D789DFEA47DC430D1C.jpg" alt="Featured image of post 04 Linux操作系统 Day02" /&gt;&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;章节1:计算机体系结构&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;提升解决问题能力必看&#34;&gt;提升解决问题能力（必看）
+&lt;/h2&gt;&lt;p&gt;长话短说：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载“教程合集”.zip&lt;/li&gt;
+&lt;li&gt;细心检查&lt;/li&gt;
+&lt;li&gt;注意看错误提示&lt;/li&gt;
+&lt;li&gt;看视频下方提问、wiki 知识库有无相同问题&lt;/li&gt;
+&lt;li&gt;搜索+GPT，能力倍增&lt;/li&gt;
+&lt;li&gt;合理地分析，适当的尝试&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://wiki.bafangwy.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;网络安全知识库&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://wiki.bafangwy.com/project-6/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; 信息资料共享&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;计算机发展史&#34;&gt;计算机发展史
+&lt;/h2&gt;&lt;p&gt;自己了解一些&lt;/p&gt;
+&lt;h2 id=&#34;计算机硬件组成-cup&#34;&gt;计算机硬件组成-CUP
+&lt;/h2&gt;&lt;p&gt;CPU本质&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;控制单元&lt;/li&gt;
+&lt;li&gt;算数逻辑单元&lt;/li&gt;
+&lt;li&gt;存储单元&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;芯片有很多种，CPU芯片只是其中一种。其他还有GPU、NPU、FPGA芯片等等&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GPU：图形处理单元&lt;/li&gt;
+&lt;li&gt;NPU：神经网络处理单元&lt;/li&gt;
+&lt;li&gt;FGCA：现场可编译门&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CPU重要参数&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;核心数：物理核心数&lt;/li&gt;
+&lt;li&gt;线程：超线程技术、逻辑处理器&lt;/li&gt;
+&lt;li&gt;频率：工作频率，1秒能产生的脉冲信号&lt;/li&gt;
+&lt;li&gt;32位和64位：CPU一次能处理的位数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;指令：用来控制硬件的，经过编译后：01010101的电信号&lt;/p&gt;
+&lt;p&gt;复杂指令集：每个指令做复杂动作，完成操作需要较少指令，庞大（代表：Intel X86）&lt;/p&gt;
+&lt;p&gt;精简指令集：每个指令做简单动作，完成操作需要很多指令，灵活（代表：ARM、RISC）&lt;/p&gt;
+&lt;h2 id=&#34;计算机硬件组成-内存&#34;&gt;计算机硬件组成-内存
+&lt;/h2&gt;&lt;p&gt;运行内存：RAM（Random Access Memory）&lt;/p&gt;
+&lt;p&gt;存储空间：ROM（Read Only Memory）&lt;/p&gt;
+&lt;p&gt;内存工作频率：&lt;/p&gt;
+&lt;h2 id=&#34;计算机硬件组成-硬盘&#34;&gt;计算机硬件组成-硬盘
+&lt;/h2&gt;&lt;p&gt;硬盘类型：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3.5寸机械盘&lt;/li&gt;
+&lt;li&gt;2.5寸机械盘&lt;/li&gt;
+&lt;li&gt;2.5寸SATA 固态盘&lt;/li&gt;
+&lt;li&gt;M.2固态盘&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;硬盘：外存&lt;/p&gt;
+&lt;p&gt;输入输出设备：键盘、鼠标、显示器、麦克风等等&lt;/p&gt;
+&lt;p&gt;显卡（GPU）&lt;/p&gt;
+&lt;p&gt;声卡&lt;/p&gt;
+&lt;h2 id=&#34;程序运行原理-二进制&#34;&gt;程序运行原理-二进制
+&lt;/h2&gt;&lt;p&gt;二进制&lt;/p&gt;
+&lt;h2 id=&#34;程序运行原理-编程语言&#34;&gt;程序运行原理-编程语言
+&lt;/h2&gt;&lt;p&gt;编程语言&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;机器语言：二进制代码语言&lt;/li&gt;
+&lt;li&gt;汇编语言：用英文字母或符号串来替代操作&lt;/li&gt;
+&lt;li&gt;高级语言：贴近自然语言，不直接操作硬件，可移植
+&lt;ul&gt;
+&lt;li&gt;面向过程：&lt;/li&gt;
+&lt;li&gt;面向对象：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;为什么需要操作系统？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;提供API，屏蔽硬件差异&lt;/li&gt;
+&lt;li&gt;协调系统资源&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;个人电脑操作系统&#34;&gt;个人电脑操作系统
+&lt;/h2&gt;&lt;p&gt;1946年：计算机发明&lt;/p&gt;
+&lt;p&gt;20世纪90年代：个人电脑（PC）流行&lt;/p&gt;
+&lt;h2 id=&#34;服务器操作系统&#34;&gt;服务器操作系统
+&lt;/h2&gt;&lt;p&gt;客户端和服务器：通过网络连接&lt;/p&gt;
+&lt;p&gt;软件架构：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C/S架构：Client/Server
+&lt;ul&gt;
+&lt;li&gt;客户端：迅雷、QQ、百度网盘、……&lt;/li&gt;
+&lt;li&gt;特点：需要安装和升级，占用资源多，性能高&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;B/S架构：Browser/Server
+&lt;ul&gt;
+&lt;li&gt;浏览器：Chrome、FireFox、Edge、……&lt;/li&gt;
+&lt;li&gt;站点：百度、知乎、贴吧、……&lt;/li&gt;
+&lt;li&gt;特点：不用安装维护，跨操作系统，占用资源低&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;服务器操作系统&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows Server 系列&lt;/li&gt;
+&lt;li&gt;Linux系列：Redhat、CentOS、Debian、Ubuntu&lt;/li&gt;
+&lt;li&gt;Unix系列：SUN Solaris、BSD Unix&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;HTTP容器（Web服务器）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tomcat、Apache、Nginx、Weblogic、JBoss、……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;应用程序&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;各种编程语言开发的软件项目：Java、PHP、C、Python、Ruby、GO……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总结&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102182207193.png&#34;
+	width=&#34;1339&#34;
+	height=&#34;470&#34;
+	srcset=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102182207193_hu15108014494213698638.png 480w, https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102182207193_hu17986330625024488341.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241102182207193&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;284&#34;
+		data-flex-basis=&#34;683px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;为什么要学习linux&#34;&gt;为什么要学习Linux
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;使用网络的程序，都有一个服务器；&lt;/li&gt;
+&lt;li&gt;服务器，大部分使用的是Linux操作系统。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;学习方法&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;先学习重点&lt;/li&gt;
+&lt;li&gt;分门别类地学&lt;/li&gt;
+&lt;li&gt;不要强行记命令&lt;/li&gt;
+&lt;li&gt;多用，自然熟练&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;章节2：Linux操作系统介绍&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;操作系统简史&#34;&gt;操作系统简史
+&lt;/h2&gt;&lt;p&gt;自己了解一些……&lt;/p&gt;
+&lt;h2 id=&#34;linux诞生与分支&#34;&gt;Linux诞生与分支
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102184123819.png&#34;
+	width=&#34;1278&#34;
+	height=&#34;729&#34;
+	srcset=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102184123819_hu8556426536436074910.png 480w, https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102184123819_hu12970499099377558374.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Linux主要分支&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;175&#34;
+		data-flex-basis=&#34;420px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;linux内核与发行版&#34;&gt;Linux内核与发行版
+&lt;/h2&gt;&lt;p&gt;内核：设备驱动、文件系统、进程管理、网络通信……&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kernel.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;内核网址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;发行版：内核包装了之后，发行（装一些软件或其它的等）&lt;/p&gt;
+&lt;p&gt;查看命令：&lt;code&gt;cat/etcredhat-release&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;章节3：安装和配置CentOS&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;什么是虚拟机&#34;&gt;什么是虚拟机
+&lt;/h2&gt;&lt;p&gt;虚拟机：&lt;/p&gt;
+&lt;p&gt;一台电脑上可以安装多个操作系统，但同时只能使用其中一个。&lt;/p&gt;
+&lt;p&gt;虚拟机工作原理：&lt;/p&gt;
+&lt;p&gt;虚拟机使用场景&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;运行特定版本操作系统&lt;/li&gt;
+&lt;li&gt;隔离物理机，测试用&lt;/li&gt;
+&lt;li&gt;提升资源利用率&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Linux自带的虚拟化技术&lt;/p&gt;
+&lt;p&gt;KVM（Kernel-based Virtual Machine）&lt;/p&gt;
+&lt;h2 id=&#34;docker容器技术&#34;&gt;Docker容器技术
+&lt;/h2&gt;&lt;p&gt;Docker特点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开箱即用&lt;/li&gt;
+&lt;li&gt;快速部署&lt;/li&gt;
+&lt;li&gt;可移植性强&lt;/li&gt;
+&lt;li&gt;环境隔离&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Docker实现原理：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;namespace——系统环境的隔离&lt;/li&gt;
+&lt;li&gt;Cgroup——资源限制&lt;/li&gt;
+&lt;li&gt;镜像管理文件系统操作——根目录环境的隔离&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;虚拟机和Docker：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102191819171.png&#34;
+	width=&#34;1237&#34;
+	height=&#34;703&#34;
+	srcset=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102191819171_hu16810608231492909486.png 480w, https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102191819171_hu15598926403922395217.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;虚拟机和Docker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;175&#34;
+		data-flex-basis=&#34;422px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;虚拟机和Docker特点对比：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102191943256.png&#34;
+	width=&#34;1087&#34;
+	height=&#34;615&#34;
+	srcset=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102191943256_hu1461815356757351120.png 480w, https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102191943256_hu9797867851718566343.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;虚拟机和Docker特点对比&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;176&#34;
+		data-flex-basis=&#34;424px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装vmware&#34;&gt;安装VMware
+&lt;/h2&gt;&lt;p&gt;已安装……&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;.vmx&lt;/strong&gt; 可以直接打开&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;.osi&lt;/strong&gt; 是镜像，需要安装&lt;/p&gt;
+&lt;p&gt;VMware基本功能&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;打开现有虚拟机&lt;/li&gt;
+&lt;li&gt;编辑网络——“虚拟网络编辑器”&lt;/li&gt;
+&lt;li&gt;虚拟机被锁定&lt;/li&gt;
+&lt;li&gt;克隆和快照&lt;/li&gt;
+&lt;li&gt;与物理机传输文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;问题1：虚拟机被锁定&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;​	原因：启动了多个VMware程序，在多个窗口打开了一个虚拟机&lt;/p&gt;
+&lt;p&gt;​	解决办法：找到原来的窗口，或者删除虚拟机目录下所有的&lt;code&gt;lck文件&lt;/code&gt; 和&lt;code&gt;.lck目录&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问题2：重启或者合上屏幕以后虚拟机连不上&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;解决：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在网络适配器中，禁用VMnet8，再启动就OK了&lt;/li&gt;
+&lt;li&gt;可以做成脚本，右键管理员运行&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;vmware三种网络模式&#34;&gt;VMware三种网络模式
+&lt;/h2&gt;&lt;p&gt;三种模式：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;桥接模式&lt;/li&gt;
+&lt;li&gt;NAT模式&lt;/li&gt;
+&lt;li&gt;仅主机模式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;基础知识：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;网卡&lt;/li&gt;
+&lt;li&gt;路由器&lt;/li&gt;
+&lt;li&gt;交换机&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;虚拟交换机：&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;虚拟交换机&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;用途&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;VMnet0&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;桥接模式&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;VMnet1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;仅主机模式&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;VMnet8&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;NAT模&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;虚拟交换机作用：让相同模式的虚拟机互相连接&lt;/p&gt;
+&lt;p&gt;虚拟网卡：&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;虚拟网卡&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;用途&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;VMware Network Adapter VMnet1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;仅主机模式&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;VMware Network Adapter VMnet8&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;NAT模式&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;虚拟网卡的作用：让主机和虚拟机相互连接&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关键问题&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主机怎么和虚拟机连接？&lt;/li&gt;
+&lt;li&gt;虚拟机怎么连接到互联网？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;桥接模式&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102210314155.png&#34;
+	width=&#34;1119&#34;
+	height=&#34;712&#34;
+	srcset=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102210314155_hu3242300463316982298.png 480w, https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102210314155_hu11623690186776946497.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;桥接模式&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;157&#34;
+		data-flex-basis=&#34;377px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;桥接-总结1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;通信方式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;虚拟机通过连接到虚拟机交换机，利用虚拟网桥连接到主机的网卡&lt;/li&gt;
+&lt;li&gt;它不需要用到虚拟网卡，所以没有VMware Network Adapter VMnet0&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;特点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;物理机和虚拟机地位平等&lt;/li&gt;
+&lt;li&gt;虚拟机占用一个独立IP&lt;/li&gt;
+&lt;li&gt;使用物理机的网卡访问互联网&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;配置：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;虚拟机IP网段和主机一致&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;【注】&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;只要网段一致，就可以相互访问。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;只有桥接模式下，虚拟机和网络中其它设备地位平等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;桥接-总结2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;连通情况&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主机和虚拟机可以访问&lt;/li&gt;
+&lt;li&gt;虚拟机之间可以相互访问&lt;/li&gt;
+&lt;li&gt;可以访问互联网&lt;/li&gt;
+&lt;li&gt;可以访问其他主机&lt;/li&gt;
+&lt;li&gt;其他主机可以访问虚拟机&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;使用场景&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;创建一个虚拟服务器在内网提供网络服务&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NAT模式&lt;/strong&gt; （安装虚拟机的默认模式）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102211304123.png&#34;
+	width=&#34;1166&#34;
+	height=&#34;716&#34;
+	srcset=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102211304123_hu1589569183749834459.png 480w, https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102211304123_hu1415056294654862314.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;NAT模式&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;162&#34;
+		data-flex-basis=&#34;390px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NAT-总结1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;通信方式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;虚拟NAT设备（虚拟路由）连接到VMnet8虚拟交换机——虚拟机联网用&lt;/li&gt;
+&lt;li&gt;主机通过VMware Network Adapter VMnet8虚拟网卡连接到VMnet8虚拟交换机——主机和虚拟机连接用&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;特点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;虚拟机在外部网络中没有自己的IP地址&lt;/li&gt;
+&lt;li&gt;虚拟NAT设备会把专用网络中的IP地址转换为主机系统的IP地址——网络地址转换&lt;/li&gt;
+&lt;li&gt;主机可以联网，虚拟机就可以联网&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;配置&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;无&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NAT-总结2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;连通情况：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主机和虚拟机可以访问&lt;/li&gt;
+&lt;li&gt;虚拟机之间可以相互访问&lt;/li&gt;
+&lt;li&gt;可以访问互联网&lt;/li&gt;
+&lt;li&gt;本机虚拟机可以访问其他主机&lt;/li&gt;
+&lt;li&gt;其他主机不能访问本虚拟机。解决办法：共享网络、端口映射&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;使用场景：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大部分情况&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;仅主机模式&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102212348441.png&#34;
+	width=&#34;1279&#34;
+	height=&#34;699&#34;
+	srcset=&#34;https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102212348441_hu17590174747443248117.png 480w, https://fulici.github.io/p/04-linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-day02/image-20241102212348441_hu3089814120574585187.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;仅主机模式&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;182&#34;
+		data-flex-basis=&#34;439px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;仅主机-总结1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;通信方式：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主机使用VMware Network Adapter VMnet1虚拟网卡连接到VMnet1虚拟交换机&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;特点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;没有了NAT设备（虚拟路由），所以不能上网&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;配置&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;无&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;仅主机-总结2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;连通情况&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主机和虚拟机可以访问&lt;/li&gt;
+&lt;li&gt;虚拟机之间可以相互访问&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不能&lt;/strong&gt; 访问互联网&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不能&lt;/strong&gt; 访问其他主机&lt;/li&gt;
+&lt;li&gt;其他主机&lt;strong&gt;不能&lt;/strong&gt; 访问本机虚拟机&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;使用场景：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;创建一个与其他机器隔离的网路&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;【注意】：只需知道不同模式使用场景即可，不用太熟悉细节&lt;/p&gt;
+&lt;p&gt;End…………&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>03 网络安全行业与规范 Day02</title>
+        <link>https://fulici.github.io/p/03-%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%A1%8C%E4%B8%9A%E4%B8%8E%E8%A7%84%E8%8C%83-day02/</link>
+        <pubDate>Sat, 02 Nov 2024 13:29:03 +0800</pubDate>
+        
+        <guid>https://fulici.github.io/p/03-%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%A1%8C%E4%B8%9A%E4%B8%8E%E8%A7%84%E8%8C%83-day02/</guid>
+        <description>&lt;img src="https://fulici.github.io/p/03-%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%A1%8C%E4%B8%9A%E4%B8%8E%E8%A7%84%E8%8C%83-day02/3D7C6AF8CE0701D789DFEA47DC430D1C.jpg" alt="Featured image of post 03 网络安全行业与规范 Day02" /&gt;&lt;h2 id=&#34;什么是网络安全&#34;&gt;什么是网络安全？
+&lt;/h2&gt;&lt;p&gt;网络空间安全：Cyber Security（赛博安全）&lt;/p&gt;
+&lt;p&gt;网络空间：由计算机网络所构成的虚拟空间，包括互联网、内联网、局域网等&lt;/p&gt;
+&lt;p&gt;信息系统安全三要素：机密性、完整性、可用性&lt;/p&gt;
+&lt;p&gt;漏洞——安全性缺陷&lt;/p&gt;
+&lt;p&gt;Bug——功能性缺陷&lt;/p&gt;
+&lt;h2 id=&#34;网络安全形式&#34;&gt;网络安全形式
+&lt;/h2&gt;&lt;p&gt;当前网络安全事件频发&lt;/p&gt;
+&lt;p&gt;事件分类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有害程序事件（MI）&lt;/li&gt;
+&lt;li&gt;网络攻击事件（NAI）&lt;/li&gt;
+&lt;li&gt;信息破坏事件（IDI）&lt;/li&gt;
+&lt;li&gt;信息内容安全事件（ICSI）&lt;/li&gt;
+&lt;li&gt;设备设施故障（FF）&lt;/li&gt;
+&lt;li&gt;灾害性事件（DI）&lt;/li&gt;
+&lt;li&gt;其他事件（OI）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;APT：&lt;/p&gt;
+&lt;h2 id=&#34;中国网络安全产业现状&#34;&gt;中国网络安全产业现状
+&lt;/h2&gt;&lt;p&gt;较出名的公司&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;公司&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;安全业务收入（亿元）&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;奇安信&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;62.23&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;启明星辰&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;44.37&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;深信服&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;38.98&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;天融信&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;35.43&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;电科网安&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;34.38&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;绿盟科技&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;26.29&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;安恒信息&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;19.80&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;360&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;17.91&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;亚信安全&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;17.21&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;迪普科技&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.93&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;山石网科&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.12&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;中国网路安全人才现状&#34;&gt;中国网路安全人才现状
+&lt;/h2&gt;&lt;p&gt;高校专业&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;专业名称&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;高校数量&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;信息安全&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;139&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;网络空间安全&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;98&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;保密技术&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;信息对抗技术&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;17&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;网络安全与执法（警校）&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;28&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;网络安全的就业情况&#34;&gt;网络安全的就业情况
+&lt;/h2&gt;&lt;p&gt;职位：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;安全运营工程师&lt;/li&gt;
+&lt;li&gt;安全服务工程师&lt;/li&gt;
+&lt;li&gt;渗透测试工程师&lt;/li&gt;
+&lt;li&gt;等保测评工程师&lt;/li&gt;
+&lt;li&gt;应急响应工程师&lt;/li&gt;
+&lt;li&gt;安全运维工程师&lt;/li&gt;
+&lt;li&gt;密码测评工程师&lt;/li&gt;
+&lt;li&gt;代码审计工程师&lt;/li&gt;
+&lt;li&gt;安全开发工程师&lt;/li&gt;
+&lt;li&gt;逆向分析工程师&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;详情请查看： &lt;strong&gt;网安相关工作岗位介绍2024&lt;/strong&gt; （电脑本地文件）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;就业薪资，影响因素：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;技术能力、项目经历、面试表现&lt;/li&gt;
+&lt;li&gt;城市&lt;/li&gt;
+&lt;li&gt;工作年限&lt;/li&gt;
+&lt;li&gt;公司&lt;/li&gt;
+&lt;li&gt;学历&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;主要兼职渠道：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;护网&lt;/li&gt;
+&lt;li&gt;SRC（企业、公益）&lt;/li&gt;
+&lt;li&gt;众测&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://wiki.bafangwy.com/doc/523/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;漏洞赏金平台&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;网络安全法律法规&#34;&gt;网络安全法律法规
+&lt;/h2&gt;&lt;p&gt;总结：知法守法，不干坏事&lt;/p&gt;
+&lt;h2 id=&#34;网络安全标准&#34;&gt;网络安全标准
+&lt;/h2&gt;&lt;p&gt;国标分类&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;代码&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;描述&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;管理单位&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;GB&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;中华人民共和国 &lt;strong&gt;强制性国家标准&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;国家标准化管理委员会&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;GB/T&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;中华人民共和国 &lt;strong&gt;推荐性国家标准&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;国家标准化管理委员会&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;GB/Z&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;中华人民共和国国家标准化 &lt;strong&gt;指导性技术文件&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;国家标准化管理委员会&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        <item>
         <title>网安学习Day01</title>
         <link>https://fulici.github.io/p/%E7%BD%91%E5%AE%89%E5%AD%A6%E4%B9%A0day01/</link>
         <pubDate>Fri, 01 Nov 2024 21:07:27 +0800</pubDate>
         
         <guid>https://fulici.github.io/p/%E7%BD%91%E5%AE%89%E5%AD%A6%E4%B9%A0day01/</guid>
-        <description>&lt;h2 id=&#34;网安学习-day01&#34;&gt;网安学习-Day01
+        <description>&lt;img src="https://fulici.github.io/p/%E7%BD%91%E5%AE%89%E5%AD%A6%E4%B9%A0day01/3D7C6AF8CE0701D789DFEA47DC430D1C.jpg" alt="Featured image of post 网安学习Day01" /&gt;&lt;h2 id=&#34;网安学习-day01&#34;&gt;网安学习-Day01
 &lt;/h2&gt;&lt;h3 id=&#34;学习方法&#34;&gt;学习方法
 &lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;基于体系学习&lt;/li&gt;
@@ -114,37 +750,6 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;结束……&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>更新计划</title>
-        <link>https://fulici.github.io/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/</link>
-        <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://fulici.github.io/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/</guid>
-        <description>&lt;h2 id=&#34;近期安排&#34;&gt;近期安排
-&lt;/h2&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;更新计划&lt;/th&gt;
-          &lt;th&gt;是否完成&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;网页背景&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;资源链接网站&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;…………&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
 </description>
         </item>
         <item>
@@ -547,18 +1152,6 @@ name: deploy&lt;/p&gt;
         
         <guid>https://fulici.github.io/p/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E6%B5%8B%E8%AF%95/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>MyFirstBlog</title>
-        <link>https://fulici.github.io/p/myfirstblog/</link>
-        <pubDate>Fri, 25 Oct 2024 13:57:43 +0800</pubDate>
-        
-        <guid>https://fulici.github.io/p/myfirstblog/</guid>
-        <description>&lt;h3 id=&#34;我的第一篇博客&#34;&gt;我的第一篇博客
-&lt;/h3&gt;&lt;p&gt;内容……………………&lt;/p&gt;
-&lt;p&gt;…………………………&lt;/p&gt;
-&lt;p&gt;结束。&lt;/p&gt;
-</description>
         </item>
         <item>
         <title>Chinese Test</title>
