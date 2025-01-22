@@ -18,4 +18,43 @@
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>Hexo+GitHub搭建个人博客</title>
+    <url>/2025/01/22/Hexo-GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h2 id="本地搭建"><a href="#本地搭建" class="headerlink" title="本地搭建"></a>本地搭建</h2><ol>
+<li><p>创建一个文件夹，作为博客根目录 <code>博客-Hexo-GitHub</code> </p>
+</li>
+<li><p>管理员运行命令行</p>
+<p>输入 <code>npm install -g hexo-cli</code> ：安装Hexo；</p>
+<p>输入 <code>hexo v</code>，查看是否安装成功，出现对应版本号即代表安装成功；</p>
+<p>输入 <code>hexo init</code> ，在当前目录（博客文件夹目录，而且必须为空目录）初始化一个使用hexo框架的项目；</p>
+<p>输入 <code>hexo clean</code> ：清除缓存文件，建议写完文章后执行一次；</p>
+<p>输入 <code>hexo g</code> ：生成 public 文件夹，写完文章执行（<code>hexo generate</code>  的简写）；</p>
+<p>输入 <code>hexo s</code> ：启动 hexo 服务。</p>
+</li>
+<li><p>安装主题（Hexo-Theme-Redefine ）</p>
+<p>在 Hexo 根目录执行以下命令安装主题，<code>npm install hexo-theme-redefine@latest</code> ；</p>
+<p>启用主题，在 Hexo 根目录的 <code>_config.yml</code> 文件中，将 <code>theme</code> 值修改为 <code>redefine</code>；</p>
+</li>
+<li><p>主题配置参考：<a class="link"   href="https://redefine-docs.ohevan.com/zh" >Hexo Redefine 主题文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+</ol>
+<h2 id="发布一个文章"><a href="#发布一个文章" class="headerlink" title="发布一个文章"></a>发布一个文章</h2><h3 id="创建新帖子"><a href="#创建新帖子" class="headerlink" title="创建新帖子"></a>创建新帖子</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo new &quot;My New Post&quot;</span><br></pre></td></tr></table></figure></div>
+
+<p>更多信息：<a class="link"   href="https://hexo.io/docs/writing.html" >写作<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="运行服务器"><a href="#运行服务器" class="headerlink" title="运行服务器"></a>运行服务器</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>更多信息：<a class="link"   href="https://hexo.io/docs/server.html" >服务器<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+
+<p>更多信息：<a class="link"   href="https://hexo.io/docs/generating.html" >生成<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>建站</tag>
+      </tags>
+  </entry>
 </search>
