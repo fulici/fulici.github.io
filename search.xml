@@ -57,4 +57,78 @@
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>PicX+GitHub搭建个人图床</title>
+    <url>/2025/01/23/PicX-GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A/</url>
+    <content><![CDATA[<h1 id="为什么搭建个人图床？"><a href="#为什么搭建个人图床？" class="headerlink" title="为什么搭建个人图床？"></a>为什么搭建个人图床？</h1><h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><ol>
+<li><p><strong>GitHub仓库大小限制</strong></p>
+<p>GitHub仓库的大小是有限制的，如果将博客图片也放在搭建博客的仓库中，随着图片数量的增加，很容易导致仓库超出存储限制，影响博客的正常运行和更新。</p>
+</li>
+</ol>
+<blockquote>
+<p>GitHub 建议仓库大小保持在 <strong>1 GB 以下</strong>，强烈推荐不超过 <strong>5 GB</strong> </p>
+</blockquote>
+<ol start="2">
+<li><p><strong>灵活性</strong></p>
+<p>如果未来需要更换博客平台或托管服务，直接使用图床可以避免重新上传图片，减少迁移成本。</p>
+</li>
+</ol>
+<h2 id="好处"><a href="#好处" class="headerlink" title="好处"></a>好处</h2><ol>
+<li><p><strong>节省存储空间</strong></p>
+<p>专门搭建一个图床存放图片，不占用GitHub仓库的有限存储资源。可以让搭建博客的仓库，存放更多的文章。</p>
+</li>
+<li><p><strong>完全免费</strong></p>
+<p>你只需要一个GitHub账号，便可以参考我的这篇文章搭建一个属于自己的个人图床。</p>
+</li>
+</ol>
+<h1 id="开始搭建图床"><a href="#开始搭建图床" class="headerlink" title="开始搭建图床"></a>开始搭建图床</h1><h2 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h2><ol>
+<li>一个GitHub账号</li>
+<li>后期管理图片的地址：<a class="link"   href="https://picx.xpoet.cn/" >https://picx.xpoet.cn/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>官方文档：<a class="link"   href="https://picx-docs.xpoet.cn/" >https://picx-docs.xpoet.cn/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ol>
+<h2 id="图床搭建"><a href="#图床搭建" class="headerlink" title="图床搭建"></a>图床搭建</h2><ol>
+<li>打开这个地址 ：<code>后期管理图片的地址</code> <a class="link"   href="https://picx.xpoet.cn/" >https://picx.xpoet.cn/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>打开官方文档，然后根据参考文档进行相关配置即可。</li>
+<li>如果你顺利完成了 <code>1、2</code> 操作，那么恭喜你。现在你已经拥有了一个属于自己的个人免费图床。</li>
+</ol>
+<h1 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h1><p><strong>1. 本图床方案仅供技术学习，切勿用于违法活动。</strong></p>
+<p><strong>2. 本图床方案适用于一些较小的个人博客网站,如果存储量大、访问频率高或对加载速度有较高要求的场景，建议使用专业的图片存储策略。</strong></p>
+<h2 id="你可能会有的疑问"><a href="#你可能会有的疑问" class="headerlink" title="你可能会有的疑问"></a>你可能会有的疑问</h2><blockquote>
+<ul>
+<li>这个图床也是搭建在GitHub仓库里面的，那么使用这种方法就能解决博客图片存储的问题吗？<ul>
+<li>答：<ul>
+<li>使用这个图床方案，图片还是存储在GitHub的仓库里面（相当于又创建了一个仓库,专门用来存储博客图片）。</li>
+<li>但使用 <code>PicX</code> 上传图片时，会对图片进行压缩处理。处理后的图片跟原图片相比，会小很多。</li>
+<li>（下面图片是我屏幕的截图，原图大小：<code>2.15MB = 2150KB</code> ，压缩处理后大小只有<code>120KB</code>左右。可见使用这个图床方案可以在一个仓库中存储更多的图片）</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+<h2 id="你需要知道的一些事情"><a href="#你需要知道的一些事情" class="headerlink" title="你需要知道的一些事情"></a>你需要知道的一些事情</h2><blockquote>
+<ul>
+<li>使用GitHub搭建图床可能会存在以下隐患。</li>
+</ul>
+<ol>
+<li>GitHub的主要功能是代码托管和版本控制，并非为图片存储设计。官方并不推荐将GitHub作为图床使用，大量上传图片或高流量访问可能会被视为滥用行为，从而导致仓库被封禁，甚至账号受限。</li>
+<li>GitHub对仓库的流量使用有限制，高频率的图片访问可能会触发流量限制，导致图片加载速度变慢甚至无法访问。</li>
+<li>GitHub的公共仓库中的图片是公开的，任何人都可以访问和下载。如果需要保护图片的隐私，使用公共仓库作为图床是不合适的。</li>
+</ol>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://fulici.github.io/picx-images-hosting/20250123/QQ20250123-143303.5fkoregbjm.webp"
+                      alt="QQ20250123-143303"
+                > </p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>建站</tag>
+        <tag>图床</tag>
+      </tags>
+  </entry>
 </search>
