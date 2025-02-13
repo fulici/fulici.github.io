@@ -58,29 +58,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2025/01/22/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>SQL注入漏洞</title>
-    <url>/2025/02/13/SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>PicX+GitHub搭建个人图床</title>
     <url>/2025/01/23/PicX-GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A/</url>
     <content><![CDATA[<h1 id="为什么搭建个人图床？"><a href="#为什么搭建个人图床？" class="headerlink" title="为什么搭建个人图床？"></a>为什么搭建个人图床？</h1><h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><ol>
@@ -153,6 +130,29 @@
         <tag>建站</tag>
         <tag>图床</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2025/01/22/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>SQL注入漏洞</title>
+    <url>/2025/02/13/SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>操作系统常用命令</title>
@@ -241,235 +241,6 @@
         <tag>命令</tag>
         <tag>Linux</tag>
         <tag>Windows</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>暴力破解</title>
-    <url>/2025/02/13/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/</url>
-    <content><![CDATA[<p><strong>注意：本学习笔记仅供个人学习和研究使用，严禁用于任何非法活动。所有内容均基于合法、合规的学习目的编写。</strong></p>
-<hr>
-<h1 id="弱口令爆破"><a href="#弱口令爆破" class="headerlink" title="弱口令爆破"></a>弱口令爆破</h1><p>所用字典：GitHub搜 <code>PentesterSpecialDict</code> （渗透测试工程专用字典）</p>
-<p><strong>登录认证流程</strong></p>
-<p>举例：Pikachu靶场&#x2F;暴力破解&#x2F;基于表单的暴力破解</p>
-<ul>
-<li>用户填写表单：<code>admin/123456</code></li>
-<li>用户点击 “login” 就会发送一个数据包到网站后台的某个地方<ul>
-<li>某个地方<code>/pikachu/vul/burteforce/bf_form.php</code></li>
-</ul>
-</li>
-<li><code>bf_from.php</code> 这个文件里的代码，会验证你提交的表单里账号密码是否正确</li>
-</ul>
-<p><strong>使用burp暴破账号密码</strong></p>
-<ul>
-<li>暴破一个账号</li>
-<li>暴破多个账号</li>
-<li>暴破自己的网站</li>
-</ul>
-<p>注：具体暴破过程见《软件工具使用》中的 <code>BurpSuite</code> </p>
-<h1 id="burp抓token爆破"><a href="#burp抓token爆破" class="headerlink" title="burp抓token爆破"></a>burp抓token爆破</h1><ul>
-<li>暴破有token验证的账号密码</li>
-</ul>
-<p>注：令牌（token）使用一次就会失效。</p>
-<h1 id="Basic认证爆破"><a href="#Basic认证爆破" class="headerlink" title="Basic认证爆破"></a>Basic认证爆破</h1><ul>
-<li>暴破 <code>tomcat</code> 靶场</li>
-</ul>
-<p>注：账号密码加密、登录不正确不显示页面、在页面弹出是输入框进行登录。</p>
-<h1 id="Python编写爆破脚本"><a href="#Python编写爆破脚本" class="headerlink" title="Python编写爆破脚本"></a>Python编写爆破脚本</h1><ul>
-<li>mysite爆破脚本</li>
-<li>pikachu token验证爆破脚本</li>
-</ul>
-<h1 id="CS架构爆破"><a href="#CS架构爆破" class="headerlink" title="CS架构爆破"></a>CS架构爆破</h1><p>B&#x2F;S架构（Brouser&#x2F;Server），浏览器-服务器；</p>
-<p>CS架构（Client&#x2F;Server），服务器-客户机。</p>
-<h1 id="暴破工具"><a href="#暴破工具" class="headerlink" title="暴破工具"></a>暴破工具</h1><p><strong>hydra 爆破工具</strong> （Kali里面有）</p>
-<p>hydra（九头蛇）可以爆破 ftp &#x2F; ssh &#x2F; telnet &#x2F; mysql &#x2F; rdp 等各种服务</p>
-<p><strong>常用参数</strong></p>
-<table>
-<thead>
-<tr>
-<th>参数名</th>
-<th>参数含义</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>-l</td>
-<td>指定破解的用户，对特定用户破解</td>
-</tr>
-<tr>
-<td>-L</td>
-<td>指定用户名字典</td>
-</tr>
-<tr>
-<td>-p</td>
-<td>小写，指定密码破解，少用，一般是采用密码字典</td>
-</tr>
-<tr>
-<td>-P</td>
-<td>大写，指定密码字典</td>
-</tr>
-<tr>
-<td>-R</td>
-<td>继续从上一次进度接着破解</td>
-</tr>
-<tr>
-<td>-S</td>
-<td>大写，采用SSL链接</td>
-</tr>
-<tr>
-<td>-s</td>
-<td>小写，可通过这个参数指定非默认端口</td>
-</tr>
-<tr>
-<td>-e</td>
-<td>可选选项，n：空密码试探，s：使用指定用户和密码试探 (-e ns)</td>
-</tr>
-<tr>
-<td>-t</td>
-<td>同时运行的线程数，默认为16</td>
-</tr>
-<tr>
-<td>-C</td>
-<td>使用冒号分割格式，例如“登录名:密码”来代替 -L&#x2F;-P 参数</td>
-</tr>
-<tr>
-<td>-M</td>
-<td>指定目标列表文件一行一条</td>
-</tr>
-<tr>
-<td>-o</td>
-<td>指定结果输出文件</td>
-</tr>
-<tr>
-<td>-f</td>
-<td>在使用-M参数以后，找到第一对登录名或者密码的时候中止破解</td>
-</tr>
-<tr>
-<td>-w</td>
-<td>设置最大超时的时间，单位秒，默认是30s</td>
-</tr>
-<tr>
-<td>-v &#x2F; -V</td>
-<td>显示详细过程</td>
-</tr>
-<tr>
-<td>server</td>
-<td>目标ip</td>
-</tr>
-<tr>
-<td>service</td>
-<td>指定服务名，支持的服务和协议</td>
-</tr>
-</tbody></table>
-<p><strong>超级弱口令爆破工具</strong></p>
-<ul>
-<li>填写目标 ip 、账户名或账号密码字典 进行爆破破解</li>
-<li>点击设置可更改服务默认端口</li>
-</ul>
-<p><strong>社工字典生成</strong></p>
-<p>当你收集到目标的具体信息后，你就可以通过工具来智能化生成关于目标的字典，提升爆破效率。</p>
-<ul>
-<li>亦思（图形化界面）</li>
-<li>cupp（Kali下载）</li>
-</ul>
-<p>Cupp是一款用Python语言写成的可交互性的字典生成脚本。</p>
-<p>Kali 安装 Cupp: <code>apt-get install cupp</code></p>
-<ul>
-<li>查看命令：<code>cupp</code> </li>
-<li>执行生成字典：<code>cupp -i</code></li>
-</ul>
-<p><strong>常用参数</strong> </p>
-<table>
-<thead>
-<tr>
-<th>参数</th>
-<th>参数含义</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>-v</td>
-<td>查看cupp版本号</td>
-</tr>
-<tr>
-<td>-h</td>
-<td>查看参数列表</td>
-</tr>
-<tr>
-<td>-l</td>
-<td>从github仓库里面下载字典</td>
-</tr>
-<tr>
-<td>-i</td>
-<td>使用交互式的提问创建用户字典</td>
-</tr>
-<tr>
-<td>-w</td>
-<td>在已存在的字典上进行扩展</td>
-</tr>
-</tbody></table>
-<h1 id="验证码绕过"><a href="#验证码绕过" class="headerlink" title="验证码绕过"></a>验证码绕过</h1><p><strong>原理：</strong></p>
-<p>客户端发起请求 -&gt; 服务端响应并创建一个新的SessionID同时生成随机验证码，将验证码和SessionID一并返回给客户端 -&gt; 客户端提交验证码连同SessionID给服务端 -&gt; 服务端验证验证码同时销毁当前会话，返回给客户端结果。</p>
-<p>验证码绕过学习网站：<a class="link"   href="https://match.yuanrenxue.cn/" >猿人学<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> </p>
-<p>【客户端可能存在的安全问题】</p>
-<ol>
-<li>有的网站验证码由本地js生成仅仅在本地用js验证。可以在本地禁用js，用burp把验证字段删除。</li>
-<li>有的网站把验证码输出到客户端html中，送到客户端Cookie或response headers。</li>
-<li>有些网站默认不显示验证码，而是在输入错误一定数量之后才需要验证验证码，开发人员可能在Cookie中写入一个标记loginErr，用来记录错误数量，则可以不更新Cookie中的loginErr值反复提交，验证码就不会出现。</li>
-</ol>
-<p>【服务端可能存在的安全问题】</p>
-<ol>
-<li>验证码不过期，没有及时销毁会话导致同一验证码反复可用。攻击者可以在Cookie中带固定的sessionID和固定的验证码字符串。</li>
-<li>没有对验证码进行非空判断，导致可以直接删除验证码参数。</li>
-<li>产生的验证码问题有限</li>
-</ol>
-<p><strong>验证码固定</strong></p>
-<p>导致验证码不刷新（固定）的原因是：登录密码错误之后，session中的值没有更新，验证码不变。验证码不刷新通常有以下两种情况：无条件不刷新、有条件不刷新。</p>
-<p>无条件不刷新：</p>
-<p>无条件不刷新是指在某一时间段内，无论登录失败多少次，只要不刷新页面，就可以无限次的使用同一个验证码来对一个或多个用户帐号进行暴力猜解。换句话说，攻击者可以在同一个会话下，在获得第一个验证码后，后面不再主动触发验证码生成页面，并且一直使用第一个验证码就可循环进行后面的表单操作，从而绕过了验证码的屏障作用，对登录进行暴力猜解</p>
-<p>有条件不刷新：</p>
-<p>有条件不刷新多见于如下情况：登录失败之后，系统会打开一个新页面或者弹出一个新的警告窗口，提示用户登录失败，点击确定后返回登录界面且验证码刷新。这种情况下，只要我们不关闭新窗口或弹窗，配合使用Burpsuite的intruder模块就可以进行暴力破解了。</p>
-<p><strong>仅在客户端生成验证码</strong></p>
-<p>有的网站验证码由前端js生成仅仅在前端用js验证，这种验证码形同虚设直接使用burp抓包提交即可。</p>
-<p><strong>验证码隐藏在源码之中</strong></p>
-<p>验证这种情况很简单，我们只需要记住验证码，然后右键打开网站源代码，Ctrl+F搜索，输入刚才的验证码，如果可以成功匹配到，那恭喜你，接下来就可以写工具，提取源码中的验证码并将其放入每次请求的报文中，来进行帐号破解，使用python编写脚本即可。</p>
-<p><strong>验证码隐藏在Cookie中</strong></p>
-<p>一般来说，我们会把验证码的值用Session存储起来，通过对比用户提交的验证码和Session中的验证码，就可以知道输入是否正确。由于Session会占用服务器资源，有的开发人员会把验证码的值加密后存储在Cookie中。</p>
-<p>这种情况，我们可以在提交登录的时候抓包，然后分析一下包中的Cookie字段，看看其中有没有相匹配的验证码，或者是经过了一些简单加密后的验证码。</p>
-<p><strong>验证码可穷举</strong></p>
-<p>有的验证码不是使用算法随机生成的，而是一些固定的图片，多刷新几次验证码我们可能会发现系统中的存在就那么一些验证码，这种情况这种情况下只要将验证码全部下载下来，生成一个md5库，然后将前端生成的验证码与本地文件进行对比即可。</p>
-<p>思路：建立图片md5库 与 对应验证码值库后，用 resquest.Session() 建立一个可保持状态的request对象，下载验证码图片后与md5库对比得出验证码值，进行登陆爆破即可。</p>
-<h1 id="暴力破解与加密"><a href="#暴力破解与加密" class="headerlink" title="暴力破解与加密"></a>暴力破解与加密</h1><p><strong>解码网站：</strong><a class="link"   href="https://www.cmd5.com/" >md5在线解密破解<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> （遇到加密，直接到这个网站试着解密）</p>
-<p><strong>常见前端加密</strong></p>
-<h5 id="base64加密与解密"><a href="#base64加密与解密" class="headerlink" title="base64加密与解密"></a>base64加密与解密</h5><p>window.atob() 与window.btoa()可以实现对base64格式的数据进行解码和编码，其兼容性是主流浏览器，IE10及以上。</p>
-<p>window.atob(encodedStr)只可以解码用btoa方法编码的字符串。</p>
-<p>window.btoa()：将ascii字符串或二进制数据转换成一个base64编码过的字符串,但该方法不能直接作用于Unicode字符串。</p>
-<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script&gt;</span><br><span class="line">      <span class="keyword">var</span> str = <span class="string">&#x27;RUNOOB&#x27;</span></span><br><span class="line">      <span class="keyword">var</span> enc = <span class="variable language_">window</span>.<span class="title function_">btoa</span>(str) <span class="comment">//编码成base64的</span></span><br><span class="line">      <span class="keyword">var</span> dec = <span class="variable language_">window</span>.<span class="title function_">atob</span>(enc) <span class="comment">//把base64解码</span></span><br><span class="line">      <span class="keyword">var</span> res = <span class="string">&#x27;编码字符串为: &#x27;</span> + enc + <span class="string">&#x27;&lt;br&gt;&#x27;</span> + <span class="string">&#x27;解码后字符串为: &#x27;</span> + dec</span><br><span class="line">      <span class="variable language_">console</span>.<span class="title function_">log</span>(res)</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure></div>
-
-<p>当遇到中文时，需要先对中文转码否则会乱码 </p>
-<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script&gt;</span><br><span class="line">    <span class="keyword">var</span> str = <span class="title function_">btoa</span>(<span class="built_in">encodeURIComponent</span>(<span class="string">&quot;中文汉字&quot;</span>));</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(str)</span><br><span class="line">    <span class="keyword">var</span> str1 = <span class="built_in">decodeURIComponent</span>(<span class="title function_">atob</span>(str))</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(str1)</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure></div>
-
-<h5 id="MD5加密"><a href="#MD5加密" class="headerlink" title="MD5加密"></a>MD5加密</h5><p>首先引入相关js,对要加密的内容直接加密</p>
-<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script src=<span class="string">&quot;https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js&quot;</span>&gt;&lt;/script&gt;</span><br><span class="line">&lt;script&gt;</span><br><span class="line">  <span class="keyword">var</span> b =$(<span class="string">&quot;#logPassword&quot;</span>);</span><br><span class="line">  $.<span class="title function_">md5</span>(b.<span class="title function_">val</span>())</span><br><span class="line">&lt;script&gt;</span><br></pre></td></tr></table></figure></div>
-
-<p>MD5没有解密算法，或者说解密算法很复杂，所以可以在数据库中存放经过<strong>两次MD5</strong>加密的的内容，也可以再配合加‘盐’ salt</p>
-<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="title function_">md5</span>(<span class="title function_">md5</span>(<span class="string">&quot;123456&quot;</span>)+<span class="string">&quot;a&quot;</span>));</span><br></pre></td></tr></table></figure></div>
-
-<h5 id="sha1加密"><a href="#sha1加密" class="headerlink" title="sha1加密"></a>sha1加密</h5><p>首先引入相关js,对要加密的内容直接加密</p>
-<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script type=<span class="string">&quot;text/ecmascript&quot;</span> src=<span class="string">&quot;sha1.js&quot;</span>&gt;&lt;/script&gt;</span><br><span class="line"><span class="keyword">var</span> sha = <span class="title function_">hex_sha1</span>(<span class="string">&#x27;mima123465&#x27;</span>);</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(sha);</span><br></pre></td></tr></table></figure></div>
-
-<h5 id="RSA用公钥私钥加密解密"><a href="#RSA用公钥私钥加密解密" class="headerlink" title="RSA用公钥私钥加密解密"></a>RSA用公钥私钥加密解密</h5><p>首先引入相关配置文件</p>
-<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script src=<span class="string">&quot;js/jsencrypt.js&quot;</span>&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure></div>
-
-<p>前端在向后台发起登录请求之前，先请求后台获取公钥的方法</p>
-<div class="code-container" data-rel="Php"><figure class="iseeu highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> publicKey = <span class="literal">null</span>;</span><br><span class="line">$.<span class="title function_ invoke__">ajax</span>(&#123;</span><br><span class="line">    <span class="attr">url</span>: <span class="string">&quot;xxx&quot;</span>,</span><br><span class="line">    <span class="attr">type</span>: <span class="string">&quot;post&quot;</span>,</span><br><span class="line">    <span class="attr">dataType</span>: <span class="string">&quot;text&quot;</span>,</span><br><span class="line">    <span class="attr">success</span>: function(data) &#123;</span><br><span class="line">        <span class="keyword">var</span> encrypt = <span class="keyword">new</span> <span class="title class_">JSEncrypt</span>();</span><br><span class="line">        <span class="keyword">if</span>(data)&#123;</span><br><span class="line">            publicKey = data;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;);</span><br><span class="line"></span><br><span class="line"><span class="comment">// 通过公钥对用户名和密码加密</span></span><br><span class="line">encrypt.<span class="title function_ invoke__">setPublicKey</span>(publicKey);</span><br><span class="line"><span class="keyword">var</span> username;</span><br><span class="line"><span class="keyword">var</span> password;</span><br><span class="line">username = encrypt.<span class="title function_ invoke__">encrypt</span>(vm.username.<span class="title function_ invoke__">trim</span>());</span><br><span class="line">password = encrypt.<span class="title function_ invoke__">encrypt</span>(vm.password.<span class="title function_ invoke__">trim</span>());</span><br><span class="line"></span><br><span class="line"><span class="comment">// 接下来就是用加密后的用户名密码请求后台</span></span><br><span class="line">$.<span class="title function_ invoke__">ajax</span>(&#123;</span><br><span class="line">    <span class="attr">type</span>: <span class="string">&quot;POST&quot;</span>,</span><br><span class="line">    <span class="attr">url</span>: <span class="string">&quot;xxxxxx&quot;</span>,</span><br><span class="line">    <span class="attr">data</span>: &#123;</span><br><span class="line">        <span class="string">&quot;username&quot;</span>: username,</span><br><span class="line">        <span class="string">&quot;password&quot;</span>: password,</span><br><span class="line">    &#125;,</span><br><span class="line">    <span class="attr">dataType</span>: <span class="string">&quot;json&quot;</span>,</span><br><span class="line">    <span class="attr">success</span>: function(result) &#123;</span><br><span class="line">        <span class="keyword">if</span> (result.code == <span class="number">0</span>) &#123; <span class="comment">// 登录成功</span></span><br><span class="line">            <span class="built_in">parent</span>.location.href = <span class="string">&#x27;index.html&#x27;</span>;</span><br><span class="line">        &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">            vm.error = <span class="literal">true</span>;</span><br><span class="line">            vm.errorMsg = result.msg;</span><br><span class="line">            vm.<span class="title function_ invoke__">refreshCode</span>();</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure></div>
-
-<p><strong>待添加……</strong></p>
-<hr>
-<p><strong>再次提醒：本笔记内容仅用于学习和研究目的，严禁用于任何非法活动。如有违反，责任由使用者自行承担。</strong></p>
-]]></content>
-      <categories>
-        <category>网络安全</category>
-      </categories>
-      <tags>
-        <tag>暴力破解</tag>
       </tags>
   </entry>
   <entry>
@@ -1038,6 +809,235 @@
       </categories>
       <tags>
         <tag>信息收集</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>暴力破解</title>
+    <url>/2025/02/13/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/</url>
+    <content><![CDATA[<p><strong>注意：本学习笔记仅供个人学习和研究使用，严禁用于任何非法活动。所有内容均基于合法、合规的学习目的编写。</strong></p>
+<hr>
+<h1 id="弱口令爆破"><a href="#弱口令爆破" class="headerlink" title="弱口令爆破"></a>弱口令爆破</h1><p>所用字典：GitHub搜 <code>PentesterSpecialDict</code> （渗透测试工程专用字典）</p>
+<p><strong>登录认证流程</strong></p>
+<p>举例：Pikachu靶场&#x2F;暴力破解&#x2F;基于表单的暴力破解</p>
+<ul>
+<li>用户填写表单：<code>admin/123456</code></li>
+<li>用户点击 “login” 就会发送一个数据包到网站后台的某个地方<ul>
+<li>某个地方<code>/pikachu/vul/burteforce/bf_form.php</code></li>
+</ul>
+</li>
+<li><code>bf_from.php</code> 这个文件里的代码，会验证你提交的表单里账号密码是否正确</li>
+</ul>
+<p><strong>使用burp暴破账号密码</strong></p>
+<ul>
+<li>暴破一个账号</li>
+<li>暴破多个账号</li>
+<li>暴破自己的网站</li>
+</ul>
+<p>注：具体暴破过程见《软件工具使用》中的 <code>BurpSuite</code> </p>
+<h1 id="burp抓token爆破"><a href="#burp抓token爆破" class="headerlink" title="burp抓token爆破"></a>burp抓token爆破</h1><ul>
+<li>暴破有token验证的账号密码</li>
+</ul>
+<p>注：令牌（token）使用一次就会失效。</p>
+<h1 id="Basic认证爆破"><a href="#Basic认证爆破" class="headerlink" title="Basic认证爆破"></a>Basic认证爆破</h1><ul>
+<li>暴破 <code>tomcat</code> 靶场</li>
+</ul>
+<p>注：账号密码加密、登录不正确不显示页面、在页面弹出是输入框进行登录。</p>
+<h1 id="Python编写爆破脚本"><a href="#Python编写爆破脚本" class="headerlink" title="Python编写爆破脚本"></a>Python编写爆破脚本</h1><ul>
+<li>mysite爆破脚本</li>
+<li>pikachu token验证爆破脚本</li>
+</ul>
+<h1 id="CS架构爆破"><a href="#CS架构爆破" class="headerlink" title="CS架构爆破"></a>CS架构爆破</h1><p>B&#x2F;S架构（Brouser&#x2F;Server），浏览器-服务器；</p>
+<p>CS架构（Client&#x2F;Server），服务器-客户机。</p>
+<h1 id="暴破工具"><a href="#暴破工具" class="headerlink" title="暴破工具"></a>暴破工具</h1><p><strong>hydra 爆破工具</strong> （Kali里面有）</p>
+<p>hydra（九头蛇）可以爆破 ftp &#x2F; ssh &#x2F; telnet &#x2F; mysql &#x2F; rdp 等各种服务</p>
+<p><strong>常用参数</strong></p>
+<table>
+<thead>
+<tr>
+<th>参数名</th>
+<th>参数含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-l</td>
+<td>指定破解的用户，对特定用户破解</td>
+</tr>
+<tr>
+<td>-L</td>
+<td>指定用户名字典</td>
+</tr>
+<tr>
+<td>-p</td>
+<td>小写，指定密码破解，少用，一般是采用密码字典</td>
+</tr>
+<tr>
+<td>-P</td>
+<td>大写，指定密码字典</td>
+</tr>
+<tr>
+<td>-R</td>
+<td>继续从上一次进度接着破解</td>
+</tr>
+<tr>
+<td>-S</td>
+<td>大写，采用SSL链接</td>
+</tr>
+<tr>
+<td>-s</td>
+<td>小写，可通过这个参数指定非默认端口</td>
+</tr>
+<tr>
+<td>-e</td>
+<td>可选选项，n：空密码试探，s：使用指定用户和密码试探 (-e ns)</td>
+</tr>
+<tr>
+<td>-t</td>
+<td>同时运行的线程数，默认为16</td>
+</tr>
+<tr>
+<td>-C</td>
+<td>使用冒号分割格式，例如“登录名:密码”来代替 -L&#x2F;-P 参数</td>
+</tr>
+<tr>
+<td>-M</td>
+<td>指定目标列表文件一行一条</td>
+</tr>
+<tr>
+<td>-o</td>
+<td>指定结果输出文件</td>
+</tr>
+<tr>
+<td>-f</td>
+<td>在使用-M参数以后，找到第一对登录名或者密码的时候中止破解</td>
+</tr>
+<tr>
+<td>-w</td>
+<td>设置最大超时的时间，单位秒，默认是30s</td>
+</tr>
+<tr>
+<td>-v &#x2F; -V</td>
+<td>显示详细过程</td>
+</tr>
+<tr>
+<td>server</td>
+<td>目标ip</td>
+</tr>
+<tr>
+<td>service</td>
+<td>指定服务名，支持的服务和协议</td>
+</tr>
+</tbody></table>
+<p><strong>超级弱口令爆破工具</strong></p>
+<ul>
+<li>填写目标 ip 、账户名或账号密码字典 进行爆破破解</li>
+<li>点击设置可更改服务默认端口</li>
+</ul>
+<p><strong>社工字典生成</strong></p>
+<p>当你收集到目标的具体信息后，你就可以通过工具来智能化生成关于目标的字典，提升爆破效率。</p>
+<ul>
+<li>亦思（图形化界面）</li>
+<li>cupp（Kali下载）</li>
+</ul>
+<p>Cupp是一款用Python语言写成的可交互性的字典生成脚本。</p>
+<p>Kali 安装 Cupp: <code>apt-get install cupp</code></p>
+<ul>
+<li>查看命令：<code>cupp</code> </li>
+<li>执行生成字典：<code>cupp -i</code></li>
+</ul>
+<p><strong>常用参数</strong> </p>
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>参数含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-v</td>
+<td>查看cupp版本号</td>
+</tr>
+<tr>
+<td>-h</td>
+<td>查看参数列表</td>
+</tr>
+<tr>
+<td>-l</td>
+<td>从github仓库里面下载字典</td>
+</tr>
+<tr>
+<td>-i</td>
+<td>使用交互式的提问创建用户字典</td>
+</tr>
+<tr>
+<td>-w</td>
+<td>在已存在的字典上进行扩展</td>
+</tr>
+</tbody></table>
+<h1 id="验证码绕过"><a href="#验证码绕过" class="headerlink" title="验证码绕过"></a>验证码绕过</h1><p><strong>原理：</strong></p>
+<p>客户端发起请求 -&gt; 服务端响应并创建一个新的SessionID同时生成随机验证码，将验证码和SessionID一并返回给客户端 -&gt; 客户端提交验证码连同SessionID给服务端 -&gt; 服务端验证验证码同时销毁当前会话，返回给客户端结果。</p>
+<p>验证码绕过学习网站：<a class="link"   href="https://match.yuanrenxue.cn/" >猿人学<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> </p>
+<p>【客户端可能存在的安全问题】</p>
+<ol>
+<li>有的网站验证码由本地js生成仅仅在本地用js验证。可以在本地禁用js，用burp把验证字段删除。</li>
+<li>有的网站把验证码输出到客户端html中，送到客户端Cookie或response headers。</li>
+<li>有些网站默认不显示验证码，而是在输入错误一定数量之后才需要验证验证码，开发人员可能在Cookie中写入一个标记loginErr，用来记录错误数量，则可以不更新Cookie中的loginErr值反复提交，验证码就不会出现。</li>
+</ol>
+<p>【服务端可能存在的安全问题】</p>
+<ol>
+<li>验证码不过期，没有及时销毁会话导致同一验证码反复可用。攻击者可以在Cookie中带固定的sessionID和固定的验证码字符串。</li>
+<li>没有对验证码进行非空判断，导致可以直接删除验证码参数。</li>
+<li>产生的验证码问题有限</li>
+</ol>
+<p><strong>验证码固定</strong></p>
+<p>导致验证码不刷新（固定）的原因是：登录密码错误之后，session中的值没有更新，验证码不变。验证码不刷新通常有以下两种情况：无条件不刷新、有条件不刷新。</p>
+<p>无条件不刷新：</p>
+<p>无条件不刷新是指在某一时间段内，无论登录失败多少次，只要不刷新页面，就可以无限次的使用同一个验证码来对一个或多个用户帐号进行暴力猜解。换句话说，攻击者可以在同一个会话下，在获得第一个验证码后，后面不再主动触发验证码生成页面，并且一直使用第一个验证码就可循环进行后面的表单操作，从而绕过了验证码的屏障作用，对登录进行暴力猜解</p>
+<p>有条件不刷新：</p>
+<p>有条件不刷新多见于如下情况：登录失败之后，系统会打开一个新页面或者弹出一个新的警告窗口，提示用户登录失败，点击确定后返回登录界面且验证码刷新。这种情况下，只要我们不关闭新窗口或弹窗，配合使用Burpsuite的intruder模块就可以进行暴力破解了。</p>
+<p><strong>仅在客户端生成验证码</strong></p>
+<p>有的网站验证码由前端js生成仅仅在前端用js验证，这种验证码形同虚设直接使用burp抓包提交即可。</p>
+<p><strong>验证码隐藏在源码之中</strong></p>
+<p>验证这种情况很简单，我们只需要记住验证码，然后右键打开网站源代码，Ctrl+F搜索，输入刚才的验证码，如果可以成功匹配到，那恭喜你，接下来就可以写工具，提取源码中的验证码并将其放入每次请求的报文中，来进行帐号破解，使用python编写脚本即可。</p>
+<p><strong>验证码隐藏在Cookie中</strong></p>
+<p>一般来说，我们会把验证码的值用Session存储起来，通过对比用户提交的验证码和Session中的验证码，就可以知道输入是否正确。由于Session会占用服务器资源，有的开发人员会把验证码的值加密后存储在Cookie中。</p>
+<p>这种情况，我们可以在提交登录的时候抓包，然后分析一下包中的Cookie字段，看看其中有没有相匹配的验证码，或者是经过了一些简单加密后的验证码。</p>
+<p><strong>验证码可穷举</strong></p>
+<p>有的验证码不是使用算法随机生成的，而是一些固定的图片，多刷新几次验证码我们可能会发现系统中的存在就那么一些验证码，这种情况这种情况下只要将验证码全部下载下来，生成一个md5库，然后将前端生成的验证码与本地文件进行对比即可。</p>
+<p>思路：建立图片md5库 与 对应验证码值库后，用 resquest.Session() 建立一个可保持状态的request对象，下载验证码图片后与md5库对比得出验证码值，进行登陆爆破即可。</p>
+<h1 id="暴力破解与加密"><a href="#暴力破解与加密" class="headerlink" title="暴力破解与加密"></a>暴力破解与加密</h1><p><strong>解码网站：</strong><a class="link"   href="https://www.cmd5.com/" >md5在线解密破解<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> （遇到加密，直接到这个网站试着解密）</p>
+<p><strong>常见前端加密</strong></p>
+<h5 id="base64加密与解密"><a href="#base64加密与解密" class="headerlink" title="base64加密与解密"></a>base64加密与解密</h5><p>window.atob() 与window.btoa()可以实现对base64格式的数据进行解码和编码，其兼容性是主流浏览器，IE10及以上。</p>
+<p>window.atob(encodedStr)只可以解码用btoa方法编码的字符串。</p>
+<p>window.btoa()：将ascii字符串或二进制数据转换成一个base64编码过的字符串,但该方法不能直接作用于Unicode字符串。</p>
+<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script&gt;</span><br><span class="line">      <span class="keyword">var</span> str = <span class="string">&#x27;RUNOOB&#x27;</span></span><br><span class="line">      <span class="keyword">var</span> enc = <span class="variable language_">window</span>.<span class="title function_">btoa</span>(str) <span class="comment">//编码成base64的</span></span><br><span class="line">      <span class="keyword">var</span> dec = <span class="variable language_">window</span>.<span class="title function_">atob</span>(enc) <span class="comment">//把base64解码</span></span><br><span class="line">      <span class="keyword">var</span> res = <span class="string">&#x27;编码字符串为: &#x27;</span> + enc + <span class="string">&#x27;&lt;br&gt;&#x27;</span> + <span class="string">&#x27;解码后字符串为: &#x27;</span> + dec</span><br><span class="line">      <span class="variable language_">console</span>.<span class="title function_">log</span>(res)</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure></div>
+
+<p>当遇到中文时，需要先对中文转码否则会乱码 </p>
+<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script&gt;</span><br><span class="line">    <span class="keyword">var</span> str = <span class="title function_">btoa</span>(<span class="built_in">encodeURIComponent</span>(<span class="string">&quot;中文汉字&quot;</span>));</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(str)</span><br><span class="line">    <span class="keyword">var</span> str1 = <span class="built_in">decodeURIComponent</span>(<span class="title function_">atob</span>(str))</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(str1)</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure></div>
+
+<h5 id="MD5加密"><a href="#MD5加密" class="headerlink" title="MD5加密"></a>MD5加密</h5><p>首先引入相关js,对要加密的内容直接加密</p>
+<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script src=<span class="string">&quot;https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js&quot;</span>&gt;&lt;/script&gt;</span><br><span class="line">&lt;script&gt;</span><br><span class="line">  <span class="keyword">var</span> b =$(<span class="string">&quot;#logPassword&quot;</span>);</span><br><span class="line">  $.<span class="title function_">md5</span>(b.<span class="title function_">val</span>())</span><br><span class="line">&lt;script&gt;</span><br></pre></td></tr></table></figure></div>
+
+<p>MD5没有解密算法，或者说解密算法很复杂，所以可以在数据库中存放经过<strong>两次MD5</strong>加密的的内容，也可以再配合加‘盐’ salt</p>
+<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="title function_">md5</span>(<span class="title function_">md5</span>(<span class="string">&quot;123456&quot;</span>)+<span class="string">&quot;a&quot;</span>));</span><br></pre></td></tr></table></figure></div>
+
+<h5 id="sha1加密"><a href="#sha1加密" class="headerlink" title="sha1加密"></a>sha1加密</h5><p>首先引入相关js,对要加密的内容直接加密</p>
+<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script type=<span class="string">&quot;text/ecmascript&quot;</span> src=<span class="string">&quot;sha1.js&quot;</span>&gt;&lt;/script&gt;</span><br><span class="line"><span class="keyword">var</span> sha = <span class="title function_">hex_sha1</span>(<span class="string">&#x27;mima123465&#x27;</span>);</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(sha);</span><br></pre></td></tr></table></figure></div>
+
+<h5 id="RSA用公钥私钥加密解密"><a href="#RSA用公钥私钥加密解密" class="headerlink" title="RSA用公钥私钥加密解密"></a>RSA用公钥私钥加密解密</h5><p>首先引入相关配置文件</p>
+<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script src=<span class="string">&quot;js/jsencrypt.js&quot;</span>&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure></div>
+
+<p>前端在向后台发起登录请求之前，先请求后台获取公钥的方法</p>
+<div class="code-container" data-rel="Php"><figure class="iseeu highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> publicKey = <span class="literal">null</span>;</span><br><span class="line">$.<span class="title function_ invoke__">ajax</span>(&#123;</span><br><span class="line">    <span class="attr">url</span>: <span class="string">&quot;xxx&quot;</span>,</span><br><span class="line">    <span class="attr">type</span>: <span class="string">&quot;post&quot;</span>,</span><br><span class="line">    <span class="attr">dataType</span>: <span class="string">&quot;text&quot;</span>,</span><br><span class="line">    <span class="attr">success</span>: function(data) &#123;</span><br><span class="line">        <span class="keyword">var</span> encrypt = <span class="keyword">new</span> <span class="title class_">JSEncrypt</span>();</span><br><span class="line">        <span class="keyword">if</span>(data)&#123;</span><br><span class="line">            publicKey = data;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;);</span><br><span class="line"></span><br><span class="line"><span class="comment">// 通过公钥对用户名和密码加密</span></span><br><span class="line">encrypt.<span class="title function_ invoke__">setPublicKey</span>(publicKey);</span><br><span class="line"><span class="keyword">var</span> username;</span><br><span class="line"><span class="keyword">var</span> password;</span><br><span class="line">username = encrypt.<span class="title function_ invoke__">encrypt</span>(vm.username.<span class="title function_ invoke__">trim</span>());</span><br><span class="line">password = encrypt.<span class="title function_ invoke__">encrypt</span>(vm.password.<span class="title function_ invoke__">trim</span>());</span><br><span class="line"></span><br><span class="line"><span class="comment">// 接下来就是用加密后的用户名密码请求后台</span></span><br><span class="line">$.<span class="title function_ invoke__">ajax</span>(&#123;</span><br><span class="line">    <span class="attr">type</span>: <span class="string">&quot;POST&quot;</span>,</span><br><span class="line">    <span class="attr">url</span>: <span class="string">&quot;xxxxxx&quot;</span>,</span><br><span class="line">    <span class="attr">data</span>: &#123;</span><br><span class="line">        <span class="string">&quot;username&quot;</span>: username,</span><br><span class="line">        <span class="string">&quot;password&quot;</span>: password,</span><br><span class="line">    &#125;,</span><br><span class="line">    <span class="attr">dataType</span>: <span class="string">&quot;json&quot;</span>,</span><br><span class="line">    <span class="attr">success</span>: function(result) &#123;</span><br><span class="line">        <span class="keyword">if</span> (result.code == <span class="number">0</span>) &#123; <span class="comment">// 登录成功</span></span><br><span class="line">            <span class="built_in">parent</span>.location.href = <span class="string">&#x27;index.html&#x27;</span>;</span><br><span class="line">        &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">            vm.error = <span class="literal">true</span>;</span><br><span class="line">            vm.errorMsg = result.msg;</span><br><span class="line">            vm.<span class="title function_ invoke__">refreshCode</span>();</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure></div>
+
+<p><strong>待添加……</strong></p>
+<hr>
+<p><strong>再次提醒：本笔记内容仅用于学习和研究目的，严禁用于任何非法活动。如有违反，责任由使用者自行承担。</strong></p>
+]]></content>
+      <categories>
+        <category>网络安全</category>
+      </categories>
+      <tags>
+        <tag>暴力破解</tag>
       </tags>
   </entry>
   <entry>
