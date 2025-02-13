@@ -58,6 +58,29 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2025/01/22/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>SQL注入漏洞</title>
+    <url>/2025/02/13/SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>PicX+GitHub搭建个人图床</title>
     <url>/2025/01/23/PicX-GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A/</url>
     <content><![CDATA[<h1 id="为什么搭建个人图床？"><a href="#为什么搭建个人图床？" class="headerlink" title="为什么搭建个人图床？"></a>为什么搭建个人图床？</h1><h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><ol>
@@ -119,8 +142,8 @@
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://fulici.github.io/picx-images-hosting/20250123/QQ20250123-143303.5fkoregbjm.webp"
-                      alt="QQ20250123-143303"
+                     data-src="https://fulici.github.io/picx-images-hosting/20250210/%E8%93%9D%E7%9C%BC%E7%9D%9B%E7%9A%84%E7%8C%AB%E5%A5%B3%E5%AD%A9-%E7%8C%AB%E5%A8%98-%E5%B0%91%E5%A5%B3-%E5%85%BD%E8%80%B3-4k%E5%8A%A8%E6%BC%AB%E5%A3%81%E7%BA%B8_%E5%9B%BE%E7%89%87%E7%BC%96%E5%8F%B7334640_%E5%A3%81%E7%BA%B8%E7%BD%91.51e9qcny9w.webp"
+                      alt="蓝眼睛的猫女孩-猫娘-少女-兽耳-4k动漫壁纸_图片编号334640_壁纸网"
                 > </p>
 ]]></content>
       <categories>
@@ -132,21 +155,968 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2025/01/22/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+    <title>操作系统常用命令</title>
+    <url>/2025/02/10/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
+    <content><![CDATA[<h1 id="Windows-命令"><a href="#Windows-命令" class="headerlink" title="Windows 命令"></a>Windows 命令</h1><h2 id="基础命令"><a href="#基础命令" class="headerlink" title="基础命令"></a>基础命令</h2><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">关机：shutdown</span><br><span class="line">清屏：cls</span><br><span class="line">查看当前用户：whoami</span><br><span class="line">查看计算机上的用户：net user</span><br><span class="line">查看计算机信息：systeminfo</span><br><span class="line">显示系统版本号：ver</span><br><span class="line">显示当前主机名：hostname</span><br><span class="line">显示日期：date</span><br><span class="line">设置编码：chcp 65001（utf-8）</span><br><span class="line">输出内容：echo</span><br><span class="line">搜索字符串：findstr [/? /c /s /i] # (输出该字符串所在行的所有字符)</span><br><span class="line">	/c # 搜索指定字符串</span><br><span class="line">	/s # 在当前目录和所有子目录中搜索匹配</span><br><span class="line">	/i # 不区分大小写</span><br><span class="line">	</span><br><span class="line">    findstr &quot;hello world&quot; 1.txt 	# 在1.txt文件中搜索hello或world</span><br><span class="line">    findstr /c:&quot;hello world&quot; 1.txt 	# 在1.txt文件中搜索hello world</span><br><span class="line">    findstr /s /i &quot;Hello&quot; *.*   	# 不区分大小写，在当前目录和所有子目录中的所有文件中的hello</span><br></pre></td></tr></table></figure></div>
 
-<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+<h2 id="文件操作"><a href="#文件操作" class="headerlink" title="文件操作"></a>文件操作</h2><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">查看目录：dir、tree</span><br><span class="line">创建目录：mkdir 目录名、md 目录名</span><br><span class="line">切换目录：cd 目录名</span><br><span class="line">查看文件：type 文件名（全部） 、more 文件名（逐行） </span><br><span class="line">复制文件：copy a.txt aa.txt</span><br><span class="line">复制文件夹：xcopy /E olddir newdir</span><br><span class="line">移动/重命名（文件/文件夹）：move 名字 路径、move 名字 新名字  </span><br><span class="line">删除文件：del a.txt 、erase a.txt（不会到回收站）</span><br><span class="line">删除目录：rd [/s /q]</span><br><span class="line">	/s # 除目录本身外，还将删除指定目录下的所有子目录和文件。用于删除目录树。</span><br><span class="line">	/q # 安静模式，带 /S 删除目录树时不要求确认</span><br><span class="line">	</span><br><span class="line">	rd dirname 		  # 只能删除空目录，无需确认、</span><br><span class="line">	rd /s dirname     # 删除目录，需要确认、</span><br><span class="line">	rd /s /q dirname  # 删除目录，无需确认</span><br></pre></td></tr></table></figure></div>
 
-<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+<h2 id="进程操作"><a href="#进程操作" class="headerlink" title="进程操作"></a>进程操作</h2><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">显示进程信息：tasklist</span><br><span class="line">结束指定进程：taskkill [/im /pid /f /t]</span><br><span class="line">	/im # 指定要终止的进程的映像名称。通配符 &#x27;*&#x27;可用来指定所有任务或映像名称。</span><br><span class="line">	/pid # 指定要终止的进程的 PID。使用 TaskList 取得 PID。</span><br><span class="line">	/f # 强制终止进程。</span><br><span class="line">	/t # 终止指定的进程和由它启用的子进程。</span><br><span class="line">	</span><br><span class="line">    taskkill /im notepad.exe # 结束名为notepad.exe的进程</span><br><span class="line">    taskkill /pid 1230 /pid 1241 /pid 1253 /t # 结束pid为1230、1241和1253的进程以及由它们启动起来的子进程</span><br><span class="line">    taskkill /f /im cmd.exe /t # 强制结束有名为cmd.exe的进程以及由它启动起来的子进程</span><br></pre></td></tr></table></figure></div>
 
-<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+<h2 id="网络相关"><a href="#网络相关" class="headerlink" title="网络相关"></a>网络相关</h2><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">ipconfig [/all] # 查看IP信息</span><br><span class="line">ping ip # 检测网络是否连通</span><br><span class="line">netstat [-a -o] # 查看网络连接情况</span><br><span class="line">    -a # 查看开启了哪些端口</span><br><span class="line">    -o # 显示进程pid</span><br><span class="line">    -n # 查看端口的网络连接情况</span><br><span class="line">    -v # 查看正在进行的工作</span><br><span class="line">    -p tcp # 查看tcp协议的使用情况</span><br></pre></td></tr></table></figure></div>
 
-<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h2 id="特殊符号"><a href="#特殊符号" class="headerlink" title="特殊符号"></a>特殊符号</h2><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">&amp; 	# 顺序执行多条命令，而不管命令是否执行成功</span><br><span class="line">&amp;&amp; 	# 顺序执行多条命令，当碰到执行出错的命令后将不执行后面的命令</span><br><span class="line">|| 	# 顺序执行多条命令，当碰到执行正确的命令后将不执行后面的命令</span><br><span class="line">| 	# 管道命令，将上一条命令的输出当做下一条命令的输入</span><br><span class="line"><span class="meta prompt_">&gt; </span><span class="language-bash">	<span class="comment"># 输出重定向，将输出的结果重定向覆盖给一个文件或设备</span></span></span><br><span class="line">&lt; 	# 输入重定向，从文件或设备中获取输入的内容</span><br><span class="line"><span class="meta prompt_">&gt;</span><span class="language-bash">&gt; 	<span class="comment"># 追加重定向，将输出的结果重定向追加给一个文件或设备</span></span></span><br><span class="line">@ 	# 命令修饰符 在执行命令前，不打印出该命令的内容</span><br></pre></td></tr></table></figure></div>
+
+<h1 id="Linux-命令"><a href="#Linux-命令" class="headerlink" title="Linux 命令"></a>Linux 命令</h1><h2 id="基础操作"><a href="#基础操作" class="headerlink" title="基础操作"></a>基础操作</h2><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">快捷键</span></span><br><span class="line">清屏：Ctrl + L 或 clear</span><br><span class="line">快速补齐：Tab</span><br><span class="line">终止执行的命令：Ctrl+C</span><br><span class="line">挂起正在执行的命令：Ctrl+Z</span><br><span class="line">恢复：fg xxx</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">开关机</span></span><br><span class="line">关机：poweroff、halt、init 0</span><br><span class="line">重启：reboot、init 6</span><br><span class="line">退出登录：exit</span><br><span class="line">设置运行级别：init level</span><br><span class="line">    init 0 - 停机（千万不能把initdefault 设置为0 ）</span><br><span class="line">    init 1 - 单用户模式，只root用户进行维护</span><br><span class="line">    init 2 - 多用户，不能使用NFS(Net File System) 不联网</span><br><span class="line">    init 3 - 完全多用户模式(标准的运行级)</span><br><span class="line">    init 4 - 安全模式</span><br><span class="line">    init 5 - X11 （xwindow) 图形化界面模式</span><br><span class="line">    init 6 - 重新启动 （千万不要把initdefault 设置为6 ）</span><br><span class="line">    </span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">查看主机信息</span></span><br><span class="line">查看系统相关信息：uname -a 或 -r </span><br><span class="line">查看主机名：hostname</span><br><span class="line">查看IP地址信息：ifconfig</span><br><span class="line">查看当前用户名：whoami</span><br><span class="line">显示目前登入系统的用户信息：w</span><br><span class="line">查看当前登录的用户：who</span><br><span class="line">查看系统版本：cat /etc/*-release</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="用户管理"><a href="#用户管理" class="headerlink" title="用户管理"></a>用户管理</h2><p><a class="link"   href="https://www.runoob.com/linux/linux-user-manage.html" >Linux 用户和用户组管理<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> </p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">添加用户</span></span><br><span class="line">useradd 选项 用户名 # 添加用户</span><br><span class="line">    -c comment 指定一段注释性描述。</span><br><span class="line">    -d 目录 指定用户主目录，如果此目录不存在，则同时使用-m选项，可以创建主目录。</span><br><span class="line">    -g 用户组 指定用户所属的用户组。</span><br><span class="line">    -G 用户组，用户组 指定用户所属的附加组。</span><br><span class="line">    -s Shell文件 指定用户的登录Shell。</span><br><span class="line">    -u 用户号 指定用户的用户号，如果同时有-o选项，则可以重复使用其他用户的标识号。</span><br><span class="line">    </span><br><span class="line">    useradd tom # 添加新用户tom</span><br><span class="line">    useradd -d /home/tom -m tom # 添加新用户tom，指定家目录</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">删除用户</span></span><br><span class="line">userdel 选项 用户名</span><br><span class="line">	-r 把用户的主目录一起删除</span><br><span class="line">	</span><br><span class="line">	userdel -r tom # 删除用户tom及它的家目录</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">修改用户</span></span><br><span class="line">usermod 选项 用户名</span><br><span class="line">    -c comment 指定一段注释性描述。</span><br><span class="line">    -d 目录 指定用户主目录，如果此目录不存在，则同时使用-m选项，可以创建主目录。</span><br><span class="line">    -g 用户组 指定用户所属的用户组。</span><br><span class="line">    -G 用户组 指定用户所属的附加组。</span><br><span class="line">    -s Shell文件 指定用户的登录Shell。</span><br><span class="line">    -u 用户号 指定用户的用户号，如果同时有-o选项，则可以重复使用其他用户的标识号。</span><br><span class="line">    </span><br><span class="line">	usermod -s /bin/bash -d /home/z tom -m #将用户tom的登录Shell修改为ksh，主目录改为/home/z</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">用户口令的管理</span></span><br><span class="line">passwd 选项 用户名</span><br><span class="line">    -l 锁定口令，即禁用账号。</span><br><span class="line">    -u 口令解锁。</span><br><span class="line">    -d 使账号无口令。</span><br><span class="line">    -f 强迫用户下次登录时修改口令。</span><br><span class="line">    </span><br><span class="line">    passwd tom    # 修改tom的口令</span><br><span class="line">    passwd -d sam # 指定tom为空口令</span><br><span class="line">    passwd -l sam # 锁定tom的账号</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">切换用户</span></span><br><span class="line">su 用户名</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">以系统管理者的身份执行指令</span></span><br><span class="line">sudo command</span><br><span class="line">    -V 显示版本编号</span><br><span class="line">    -h 会显示版本编号及指令的使用方式说明</span><br><span class="line">    -l 显示出自己（执行 sudo 的使用者）的权限</span><br><span class="line">    -v 因为 sudo 在第一次执行时或是在 N 分钟内没有执行（N 预设为五）会问密码，这个参数是重新做一次确认，如果超过 N 分钟，也会问密码</span><br><span class="line">    -k 将会强迫使用者在下一次执行 sudo 时问密码（不论有没有超过 N 分钟）</span><br><span class="line">    -b 将要执行的指令放在背景执行</span><br><span class="line">    -p prompt 可以更改问密码的提示语，其中 %u 会代换为使用者的帐号名称， %h 会显示主机名称</span><br><span class="line">    -u username/# uid 不加此参数，代表要以 root 的身份执行指令，而加了此参数，可以以 username 的身份执行指令（#uid 为该 username 的使用者号码）</span><br><span class="line">    -s 执行环境变数中的 SHELL 所指定的 shell ，或是 /etc/passwd 里所指定的 shell</span><br><span class="line">    -H 将环境变数中的 HOME （家目录）指定为要变更身份的使用者家目录（如不加 -u 参数就是系统管理者root ）</span><br><span class="line">	command 要以系统管理者身份（或以 -u 更改为其他人）执行的指令</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="用户组管理"><a href="#用户组管理" class="headerlink" title="用户组管理"></a>用户组管理</h2><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">增加用户组</span></span><br><span class="line">groupadd 选项 用户组</span><br><span class="line">    -g GID 指定新用户组的组标识号（GID）</span><br><span class="line">    -o 一般与-g选项同时使用，表示新用户组的GID可以与系统已有用户组的GID相同</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">删除用户组</span></span><br><span class="line">groupdel 用户组</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">修改用户组</span></span><br><span class="line">groupmod 选项 用户组</span><br><span class="line">    -g GID 指定新用户组的组标识号（GID）</span><br><span class="line">    -o 一般与-g选项同时使用，表示新用户组的GID可以与系统已有用户组的GID相同</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">切换用户组</span></span><br><span class="line">newgrp</span><br><span class="line">    newgrp root # 切换到root组</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">用户信息与密码的配置文件</span></span><br><span class="line">    /etc/passwd  # 用户信息文件</span><br><span class="line">    /etc/shadow  # 密码文件(里面的密码加密)</span><br><span class="line">    /etc/group 	 # 用户组文件</span><br><span class="line">    /etc/gshadow # 组密码</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="文件与目录管理"><a href="#文件与目录管理" class="headerlink" title="文件与目录管理"></a>文件与目录管理</h2><p><a class="link"   href="https://www.runoob.com/linux/linux-file-content-manage.html" >Linux 文件与目录管理<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> </p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">列出目录</span></span><br><span class="line">ls</span><br><span class="line">    -a ：全部的文件，连同隐藏文件( 开头为 . 的文件) 一起列出来(常用)</span><br><span class="line">    -d ：仅列出目录本身，而不是列出目录内的文件数据(常用)</span><br><span class="line">    -l ：长数据串列出，包含文件的属性与权限等等数据；(常用)</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">切换目录</span></span><br><span class="line">cd [相对路径或绝对路径]</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">显示目前所在的目录</span></span><br><span class="line">pwd [-P]</span><br><span class="line">	-P ：显示出确实的路径</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">创建新目录</span></span><br><span class="line">mkdir [-mp] 目录名称</span><br><span class="line">    -m ：配置文件的权限喔</span><br><span class="line">    -p ：帮助你直接将所需要的目录(包含上一级目录)递归创建起来</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">删除空的目录</span></span><br><span class="line">rmdir [-p] 目录名称</span><br><span class="line">	-p ：从该目录起，一次删除多级空目录</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">复制文件或目录</span></span><br><span class="line">cp [-adfilprsu] 来源档(source) 目标档(destination)</span><br><span class="line">    -a：相当于 -pdr 的意思，至于 pdr 请参考下列说明；(常用)</span><br><span class="line">    -d：若来源档为连结档的属性(link file)，则复制连结档属性而非文件本身；</span><br><span class="line">    -f：为强制(force)的意思，若目标文件已经存在且无法开启，则移除后再尝试一次；</span><br><span class="line">    -i：若目标档(destination)已经存在时，在覆盖时会先询问动作的进行(常用)</span><br><span class="line">    -l：进行硬式连结(hard link)的连结档创建，而非复制文件本身；</span><br><span class="line">    -p：连同文件的属性一起复制过去，而非使用默认属性(备份常用)；</span><br><span class="line">    -r：递归持续复制，用于目录的复制行为；(常用)</span><br><span class="line">    -s：复制成为符号连结档 (symbolic link)，亦即『捷径』文件；</span><br><span class="line">    -u：若 destination 比 source 旧才升级 destination</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">移除文件或目录</span></span><br><span class="line">rm [-fir] 文件或目录</span><br><span class="line">    -f ：就是 force 的意思，忽略不存在的文件，不会出现警告信息；</span><br><span class="line">    -i ：互动模式，在删除前会询问使用者是否动作</span><br><span class="line">    -r ：递归删除啊！最常用在目录的删除了！这是非常危险的选项！！！</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">移动文件与目录</span></span><br><span class="line">mv [-fiu] source destination</span><br><span class="line">    -f ：force 强制的意思，如果目标文件已经存在，不会询问而直接覆盖；</span><br><span class="line">    -i ：若目标文件 (destination) 已经存在时，就会询问是否覆盖！</span><br><span class="line">    -u ：若目标文件已经存在，且 source 比较新，才会升级 (update)</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">文件内容查看</span></span><br><span class="line">cat   # 由第一行开始显示文件内容</span><br><span class="line">tac   # 从最后一行开始显示，可以看出 tac 是 cat 的倒着写！</span><br><span class="line">nl    # 显示的时候，顺道输出行号！</span><br><span class="line">more  # 一页一页的显示文件内容</span><br><span class="line">less  # 与 more 类似，但是比 more 更好的是，他可以往前翻页！</span><br><span class="line">head  # 只看头几行</span><br><span class="line">tail  # 只看尾巴几行</span><br><span class="line">    head -3 xxx # 只看前三行</span><br><span class="line">    tail -3 xxx # 只看后三行</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">创建文件</span></span><br><span class="line">touch filename</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="网络管理"><a href="#网络管理" class="headerlink" title="网络管理"></a>网络管理</h2><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">查看与配置网络状态</span></span><br><span class="line">ifconfig</span><br><span class="line">ip addr/a</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">查看DNS配置文件</span></span><br><span class="line">vi /etc/resolv.conf</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">重启网络</span></span><br><span class="line">service network restart</span><br><span class="line">/etc/init.d/network restart</span><br></pre></td></tr></table></figure></div>
+
+<p>网络连接配置文件</p>
+<p>CentOS7：<code>/etc/sysconfig/network-scripts/ifcfg-xxx</code> </p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">DEVICE=eth0   # 关联的设备名称</span><br><span class="line">BOOTPROTO=&#123;static|dhcp|none|bootp&#125; # 表示引导协议static|none表示静态；dhcp表示动态</span><br><span class="line">IPADDR=192.168.10.10  # 设置IP地址</span><br><span class="line">NETMASK=255.255.255.0 # 设置子网掩码</span><br><span class="line">GATEWAY=192.168.10.1  # 设置网关</span><br><span class="line">ONBOOT=yes|no # 开机时是否自动激活网络接口</span><br><span class="line">HWADDR=00:1E:0B:8F:B0:D0 # 硬件地址要与硬件中的地址保持一致可省</span><br><span class="line">DNS1=202.106.0.20 # 指定DNS地址</span><br><span class="line">USERCTL=yes|no    # 表示是否允许普通用户启用或禁用此接口</span><br><span class="line">PEERDNS=yes|no    # 表示是否在BOOTPROTO为dhcp时接受由dhcp服务器指定的dns地址</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="配置静态IP"><a href="#配置静态IP" class="headerlink" title="配置静态IP"></a>配置静态IP</h2><ul>
+<li>CentOS 7： <code>/etc/sysconfig/network-scripts/ifcfg-ens33</code></li>
+</ul>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 修改下面内容</span></span><br><span class="line">BOOTPROTO=<span class="string">&quot;static&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 新增下面内容</span></span><br><span class="line">IPADDR=192.168.31.100 <span class="comment"># 静态IP  </span></span><br><span class="line">GATEWAY=192.168.31.1  <span class="comment"># 默认网关  </span></span><br><span class="line">NETMASK=255.255.255.0 <span class="comment"># 子网掩码  </span></span><br><span class="line">DNS1=192.168.31.1     <span class="comment"># DNS 配置  </span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 重启网络</span></span><br><span class="line">service network restart</span><br></pre></td></tr></table></figure></div>
+
+<ul>
+<li>Kali &#x2F;Ubuntu &#x2F;Debian：<code>/etc/network/interfaces</code></li>
+</ul>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 添加如下内容</span></span><br><span class="line">auto eth0</span><br><span class="line">iface eth0 inet static</span><br><span class="line">address 192.168.10.101 <span class="comment"># ip地址</span></span><br><span class="line">netmask 255.255.255.0  <span class="comment"># 子网掩码</span></span><br><span class="line">getway 192.168.10.2    <span class="comment"># 网关</span></span><br><span class="line">network 192.168.10.0   <span class="comment"># 子网ip</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 重启网络</span></span><br><span class="line">service networking restart</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="进程管理"><a href="#进程管理" class="headerlink" title="进程管理"></a>进程管理</h2><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">查看进程</span></span><br><span class="line">ps [-a -aux -ef]</span><br><span class="line">    -a 列出所有运行中/激活进程</span><br><span class="line">    -aux 显示进程信息，包括无终端的（x）和针对用户（u）的进程：如USER, PID, %CPU, %MEM等</span><br><span class="line">    -ef 显示所有进程并且扩展显示输出</span><br><span class="line"></span><br><span class="line">	ps -xxx | grep xx （查找指定进程）</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">查看进程树</span></span><br><span class="line">pstree [pid] 以可视化方式显示进程，通过显示进程的树状图来展示进程间关系</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">实时监视系统中不同的进程所使用的资源</span></span><br><span class="line">top （退出：q）</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">结束进程</span></span><br><span class="line">kill -9 &lt;pid&gt;</span><br><span class="line">    ps -aux | grep ping 结束指定进程（结束ping）	</span><br><span class="line">    kill -9 pid</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="磁盘管理"><a href="#磁盘管理" class="headerlink" title="磁盘管理"></a>磁盘管理</h2><p><a class="link"   href="https://www.runoob.com/linux/linux-filesystem.html" >Linux 磁盘管理<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> </p>
+<p>Linux 磁盘管理常用三个命令为 df、du 和 fdisk</p>
+<p><strong>df</strong></p>
+<ul>
+<li>英文全称：disk full：列出文件系统的整体磁盘使用量</li>
+</ul>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">df [-ahikHTm] [目录或文件名]</span><br><span class="line">    -a ：列出所有的文件系统，包括系统特有的 /proc 等文件系统；</span><br><span class="line">    -k ：以 KBytes 的容量显示各文件系统；</span><br><span class="line">    -m ：以 MBytes 的容量显示各文件系统；</span><br><span class="line">    -h ：以人们较易阅读的 GBytes, MBytes, KBytes 等格式自行显示；</span><br><span class="line">    -H ：以 M=1000K 取代 M=1024K 的进位方式；</span><br><span class="line">    -T ：显示文件系统类型, 连同该 partition 的 filesystem 名称 (例如 ext3) 也列出；</span><br><span class="line">    -i ：不用硬盘容量，而以 inode 的数量来显示</span><br><span class="line"></span><br><span class="line">实例</span><br><span class="line">df # 将系统内所有的文件系统列出来！</span><br><span class="line">df -h # 将容量结果以易读的容量格式显示出来</span><br><span class="line">df -aT # 将系统内的所有特殊文件格式及名称都列出来</span><br></pre></td></tr></table></figure></div>
+
+<p><strong>du</strong></p>
+<ul>
+<li>查看使用空间</li>
+</ul>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">du [-ahskm] 文件或目录名称</span><br><span class="line">    -a ：列出所有的文件与目录容量，因为默认仅统计目录底下的文件量而已。</span><br><span class="line">    -h ：以人们较易读的容量格式 (G/M) 显示；</span><br><span class="line">    -s ：列出总量而已，而不列出每个各别的目录占用容量；</span><br><span class="line">    -S ：不包括子目录下的总计，与 -s 有点差别。</span><br><span class="line">    -k ：以 KBytes 列出容量显示；</span><br><span class="line">    -m ：以 MBytes 列出容量显示；</span><br><span class="line"></span><br><span class="line">实例</span><br><span class="line">du #只列出当前目录下的所有文件夹容量</span><br><span class="line">du -sm /* #检查根目录底下每个目录所占用的容量</span><br></pre></td></tr></table></figure></div>
+
+<p><strong>fdisk</strong> </p>
+<ul>
+<li>Linux 的磁盘分区表操作工具</li>
+</ul>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">fdisk [-l] 装置名称</span><br><span class="line">-l ：输出后面接的装置所有的分区内容。若仅有 fdisk -l 时， 则系统将会把整个系统内能够搜寻到的装置的分区均列出来</span><br><span class="line"></span><br><span class="line">实例</span><br><span class="line">fdisk -l #列出所有分区信息</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="防火墙配置"><a href="#防火墙配置" class="headerlink" title="防火墙配置"></a>防火墙配置</h2><p>Linux中的防火墙是一组规则。当数据包进出受保护的网络区域时，进出内容（特别是关于其来源、目标和使用的协议等信息）会根据防火墙规则进行检测，以确定是否允许其通过。</p>
+<p>被防火墙规则放行的端口或ip或流量，会被允许访问</p>
+<h3 id="firewalld"><a href="#firewalld" class="headerlink" title="firewalld"></a>firewalld</h3><ul>
+<li>红帽系列Linux的默认防火墙</li>
+</ul>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">查看防火墙</span></span><br><span class="line">systemctl status firewalld</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">启动/关闭/重启</span></span><br><span class="line">systemctl start firewalld</span><br><span class="line">systemctl stop firewalld</span><br><span class="line">systemctl reload firewalld</span><br><span class="line"> </span><br><span class="line">查看规则</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">查看当前区域所有规则</span></span><br><span class="line">firewall-cmd --list-all</span><br><span class="line"></span><br><span class="line">规则添加/移除</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">临时放行http服务</span></span><br><span class="line">firewall-cmd --add-service=http</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">移除放行的http服务</span></span><br><span class="line">firewall-cmd --remove-service=http</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">查看允许放行的服务</span></span><br><span class="line">firewall-cmd --get-service</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">持久放行tcp/80端口</span></span><br><span class="line">firewall-cmd --add-port=80/tcp --per</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">移除对tcp/80端口的放行</span></span><br><span class="line">firewall-cmd --remove-port=80/tcp --per</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">禁ping</span></span><br><span class="line">firewall-cmd --permanent --add-rich-rule=&#x27;rule protocol value=icmp drop&#x27;</span><br><span class="line"></span><br><span class="line">禁止 ip</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">禁止ip访问http服务</span></span><br><span class="line">firewall-cmd --add-rich-rule &#x27;rule family=ipv4 source address=193.168.4.0/24 service name=http reject&#x27;</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">允许ip访问http服务</span></span><br><span class="line">firewall-cmd --add-rich-rule &#x27;rule family=ipv4 source address=193.168.4.0/24 service name=http accept&#x27;</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">禁止ip访问哪些端口</span></span><br><span class="line">firewall-cmd --add-rich-rule &#x27;rule family=ipv4 source address=193.168.4.0/24 port port=80-88 protocol=tcp reject&#x27;</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">允许ip访问哪些端口</span></span><br><span class="line">firewall-cmd --add-rich-rule &#x27;rule family=ipv4 source address=193.168.4.0/24 port port=80-88 protocol=tcp accept&#x27;</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">移除rule</span></span><br><span class="line">firewall-cmd --remove-rich-rule &#x27;rule family=ipv4 source address=193.168.4.0/24 port port=80-88 protocol=tcp reject&#x27;</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">禁止服务器ping</span></span><br><span class="line">firewall-cmd --add-rich-rule &#x27;rule protocol value=icmp reject&#x27;</span><br><span class="line">firewall-cmd --add-rich-rule &#x27;rule protocol value=icmp drop&#x27;</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">accept 允许</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">reject 拒绝</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">drop 不响应</span></span><br></pre></td></tr></table></figure></div>
+
+<h3 id="iptables"><a href="#iptables" class="headerlink" title="iptables"></a>iptables</h3><ul>
+<li>netfilter&#x2F;iptables（简称为iptables）组成Linux平台下的包过滤防火墙</li>
+</ul>
+<p>按照规则表，从第一条向下匹配规则</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">查看过滤规则</span></span><br><span class="line">sudo iptables -t filter -L</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">禁止所有地址对tcp80端口的请求</span></span><br><span class="line">sudo iptables -t filter -A INPUT -j DROP -p tcp --dport 80</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">删除INPUT的第1条规则</span></span><br><span class="line">sudo iptables -t filter -D INPUT 1</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">拦截 发往指定ip地址的包</span></span><br><span class="line">sudo iptables -t filter -A OUTPUT -j DROP -p tcp -d 193.168.4.6</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">禁止ping</span></span><br><span class="line">sudo iptables -t filter -A OUTPUT -j DROP -p icmp -d 193.168.4.6</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">-A 追加最后一行</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">-I 插入，默认第一行</span></span><br></pre></td></tr></table></figure></div>
+
+<h3 id="UFW"><a href="#UFW" class="headerlink" title="UFW"></a>UFW</h3><ul>
+<li>UFW（Uncomplicated FireWall，简单防火墙）。UFW简化了 iptables，已经成为 Ubuntu 和 Debian 等系统上的默认防火墙。</li>
+</ul>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">查看UFW状态</span><br><span class="line">sudo ufw status</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">查看详细信息</span></span><br><span class="line">sudo ufw status verbose</span><br><span class="line"></span><br><span class="line">启动UFW</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">启动</span></span><br><span class="line">sudo ufw enable</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">关闭</span></span><br><span class="line">sudo ufw disable</span><br><span class="line"></span><br><span class="line">允许/禁止常见协议</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">允许ssh</span></span><br><span class="line">sudo ufw allow ssh</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">禁止ssh</span></span><br><span class="line">sudo ufw deny ssh</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">刷新</span></span><br><span class="line">sudo ufw reload</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">允许/禁止端口范围</span></span><br><span class="line">sudo ufw allow 12345</span><br><span class="line">sudo ufw allow 1714:1764/udp</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">删除规则</span></span><br><span class="line">sudo ufw delete allow ssh</span><br></pre></td></tr></table></figure></div>
+
 ]]></content>
+      <categories>
+        <category>网络安全</category>
+      </categories>
+      <tags>
+        <tag>命令</tag>
+        <tag>Linux</tag>
+        <tag>Windows</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>暴力破解</title>
+    <url>/2025/02/13/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/</url>
+    <content><![CDATA[<p><strong>注意：本学习笔记仅供个人学习和研究使用，严禁用于任何非法活动。所有内容均基于合法、合规的学习目的编写。</strong></p>
+<hr>
+<h1 id="弱口令爆破"><a href="#弱口令爆破" class="headerlink" title="弱口令爆破"></a>弱口令爆破</h1><p>所用字典：GitHub搜 <code>PentesterSpecialDict</code> （渗透测试工程专用字典）</p>
+<p><strong>登录认证流程</strong></p>
+<p>举例：Pikachu靶场&#x2F;暴力破解&#x2F;基于表单的暴力破解</p>
+<ul>
+<li>用户填写表单：<code>admin/123456</code></li>
+<li>用户点击 “login” 就会发送一个数据包到网站后台的某个地方<ul>
+<li>某个地方<code>/pikachu/vul/burteforce/bf_form.php</code></li>
+</ul>
+</li>
+<li><code>bf_from.php</code> 这个文件里的代码，会验证你提交的表单里账号密码是否正确</li>
+</ul>
+<p><strong>使用burp暴破账号密码</strong></p>
+<ul>
+<li>暴破一个账号</li>
+<li>暴破多个账号</li>
+<li>暴破自己的网站</li>
+</ul>
+<p>注：具体暴破过程见《软件工具使用》中的 <code>BurpSuite</code> </p>
+<h1 id="burp抓token爆破"><a href="#burp抓token爆破" class="headerlink" title="burp抓token爆破"></a>burp抓token爆破</h1><ul>
+<li>暴破有token验证的账号密码</li>
+</ul>
+<p>注：令牌（token）使用一次就会失效。</p>
+<h1 id="Basic认证爆破"><a href="#Basic认证爆破" class="headerlink" title="Basic认证爆破"></a>Basic认证爆破</h1><ul>
+<li>暴破 <code>tomcat</code> 靶场</li>
+</ul>
+<p>注：账号密码加密、登录不正确不显示页面、在页面弹出是输入框进行登录。</p>
+<h1 id="Python编写爆破脚本"><a href="#Python编写爆破脚本" class="headerlink" title="Python编写爆破脚本"></a>Python编写爆破脚本</h1><ul>
+<li>mysite爆破脚本</li>
+<li>pikachu token验证爆破脚本</li>
+</ul>
+<h1 id="CS架构爆破"><a href="#CS架构爆破" class="headerlink" title="CS架构爆破"></a>CS架构爆破</h1><p>B&#x2F;S架构（Brouser&#x2F;Server），浏览器-服务器；</p>
+<p>CS架构（Client&#x2F;Server），服务器-客户机。</p>
+<h1 id="暴破工具"><a href="#暴破工具" class="headerlink" title="暴破工具"></a>暴破工具</h1><p><strong>hydra 爆破工具</strong> （Kali里面有）</p>
+<p>hydra（九头蛇）可以爆破 ftp &#x2F; ssh &#x2F; telnet &#x2F; mysql &#x2F; rdp 等各种服务</p>
+<p><strong>常用参数</strong></p>
+<table>
+<thead>
+<tr>
+<th>参数名</th>
+<th>参数含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-l</td>
+<td>指定破解的用户，对特定用户破解</td>
+</tr>
+<tr>
+<td>-L</td>
+<td>指定用户名字典</td>
+</tr>
+<tr>
+<td>-p</td>
+<td>小写，指定密码破解，少用，一般是采用密码字典</td>
+</tr>
+<tr>
+<td>-P</td>
+<td>大写，指定密码字典</td>
+</tr>
+<tr>
+<td>-R</td>
+<td>继续从上一次进度接着破解</td>
+</tr>
+<tr>
+<td>-S</td>
+<td>大写，采用SSL链接</td>
+</tr>
+<tr>
+<td>-s</td>
+<td>小写，可通过这个参数指定非默认端口</td>
+</tr>
+<tr>
+<td>-e</td>
+<td>可选选项，n：空密码试探，s：使用指定用户和密码试探 (-e ns)</td>
+</tr>
+<tr>
+<td>-t</td>
+<td>同时运行的线程数，默认为16</td>
+</tr>
+<tr>
+<td>-C</td>
+<td>使用冒号分割格式，例如“登录名:密码”来代替 -L&#x2F;-P 参数</td>
+</tr>
+<tr>
+<td>-M</td>
+<td>指定目标列表文件一行一条</td>
+</tr>
+<tr>
+<td>-o</td>
+<td>指定结果输出文件</td>
+</tr>
+<tr>
+<td>-f</td>
+<td>在使用-M参数以后，找到第一对登录名或者密码的时候中止破解</td>
+</tr>
+<tr>
+<td>-w</td>
+<td>设置最大超时的时间，单位秒，默认是30s</td>
+</tr>
+<tr>
+<td>-v &#x2F; -V</td>
+<td>显示详细过程</td>
+</tr>
+<tr>
+<td>server</td>
+<td>目标ip</td>
+</tr>
+<tr>
+<td>service</td>
+<td>指定服务名，支持的服务和协议</td>
+</tr>
+</tbody></table>
+<p><strong>超级弱口令爆破工具</strong></p>
+<ul>
+<li>填写目标 ip 、账户名或账号密码字典 进行爆破破解</li>
+<li>点击设置可更改服务默认端口</li>
+</ul>
+<p><strong>社工字典生成</strong></p>
+<p>当你收集到目标的具体信息后，你就可以通过工具来智能化生成关于目标的字典，提升爆破效率。</p>
+<ul>
+<li>亦思（图形化界面）</li>
+<li>cupp（Kali下载）</li>
+</ul>
+<p>Cupp是一款用Python语言写成的可交互性的字典生成脚本。</p>
+<p>Kali 安装 Cupp: <code>apt-get install cupp</code></p>
+<ul>
+<li>查看命令：<code>cupp</code> </li>
+<li>执行生成字典：<code>cupp -i</code></li>
+</ul>
+<p><strong>常用参数</strong> </p>
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>参数含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-v</td>
+<td>查看cupp版本号</td>
+</tr>
+<tr>
+<td>-h</td>
+<td>查看参数列表</td>
+</tr>
+<tr>
+<td>-l</td>
+<td>从github仓库里面下载字典</td>
+</tr>
+<tr>
+<td>-i</td>
+<td>使用交互式的提问创建用户字典</td>
+</tr>
+<tr>
+<td>-w</td>
+<td>在已存在的字典上进行扩展</td>
+</tr>
+</tbody></table>
+<h1 id="验证码绕过"><a href="#验证码绕过" class="headerlink" title="验证码绕过"></a>验证码绕过</h1><p><strong>原理：</strong></p>
+<p>客户端发起请求 -&gt; 服务端响应并创建一个新的SessionID同时生成随机验证码，将验证码和SessionID一并返回给客户端 -&gt; 客户端提交验证码连同SessionID给服务端 -&gt; 服务端验证验证码同时销毁当前会话，返回给客户端结果。</p>
+<p>验证码绕过学习网站：<a class="link"   href="https://match.yuanrenxue.cn/" >猿人学<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> </p>
+<p>【客户端可能存在的安全问题】</p>
+<ol>
+<li>有的网站验证码由本地js生成仅仅在本地用js验证。可以在本地禁用js，用burp把验证字段删除。</li>
+<li>有的网站把验证码输出到客户端html中，送到客户端Cookie或response headers。</li>
+<li>有些网站默认不显示验证码，而是在输入错误一定数量之后才需要验证验证码，开发人员可能在Cookie中写入一个标记loginErr，用来记录错误数量，则可以不更新Cookie中的loginErr值反复提交，验证码就不会出现。</li>
+</ol>
+<p>【服务端可能存在的安全问题】</p>
+<ol>
+<li>验证码不过期，没有及时销毁会话导致同一验证码反复可用。攻击者可以在Cookie中带固定的sessionID和固定的验证码字符串。</li>
+<li>没有对验证码进行非空判断，导致可以直接删除验证码参数。</li>
+<li>产生的验证码问题有限</li>
+</ol>
+<p><strong>验证码固定</strong></p>
+<p>导致验证码不刷新（固定）的原因是：登录密码错误之后，session中的值没有更新，验证码不变。验证码不刷新通常有以下两种情况：无条件不刷新、有条件不刷新。</p>
+<p>无条件不刷新：</p>
+<p>无条件不刷新是指在某一时间段内，无论登录失败多少次，只要不刷新页面，就可以无限次的使用同一个验证码来对一个或多个用户帐号进行暴力猜解。换句话说，攻击者可以在同一个会话下，在获得第一个验证码后，后面不再主动触发验证码生成页面，并且一直使用第一个验证码就可循环进行后面的表单操作，从而绕过了验证码的屏障作用，对登录进行暴力猜解</p>
+<p>有条件不刷新：</p>
+<p>有条件不刷新多见于如下情况：登录失败之后，系统会打开一个新页面或者弹出一个新的警告窗口，提示用户登录失败，点击确定后返回登录界面且验证码刷新。这种情况下，只要我们不关闭新窗口或弹窗，配合使用Burpsuite的intruder模块就可以进行暴力破解了。</p>
+<p><strong>仅在客户端生成验证码</strong></p>
+<p>有的网站验证码由前端js生成仅仅在前端用js验证，这种验证码形同虚设直接使用burp抓包提交即可。</p>
+<p><strong>验证码隐藏在源码之中</strong></p>
+<p>验证这种情况很简单，我们只需要记住验证码，然后右键打开网站源代码，Ctrl+F搜索，输入刚才的验证码，如果可以成功匹配到，那恭喜你，接下来就可以写工具，提取源码中的验证码并将其放入每次请求的报文中，来进行帐号破解，使用python编写脚本即可。</p>
+<p><strong>验证码隐藏在Cookie中</strong></p>
+<p>一般来说，我们会把验证码的值用Session存储起来，通过对比用户提交的验证码和Session中的验证码，就可以知道输入是否正确。由于Session会占用服务器资源，有的开发人员会把验证码的值加密后存储在Cookie中。</p>
+<p>这种情况，我们可以在提交登录的时候抓包，然后分析一下包中的Cookie字段，看看其中有没有相匹配的验证码，或者是经过了一些简单加密后的验证码。</p>
+<p><strong>验证码可穷举</strong></p>
+<p>有的验证码不是使用算法随机生成的，而是一些固定的图片，多刷新几次验证码我们可能会发现系统中的存在就那么一些验证码，这种情况这种情况下只要将验证码全部下载下来，生成一个md5库，然后将前端生成的验证码与本地文件进行对比即可。</p>
+<p>思路：建立图片md5库 与 对应验证码值库后，用 resquest.Session() 建立一个可保持状态的request对象，下载验证码图片后与md5库对比得出验证码值，进行登陆爆破即可。</p>
+<h1 id="暴力破解与加密"><a href="#暴力破解与加密" class="headerlink" title="暴力破解与加密"></a>暴力破解与加密</h1><p><strong>解码网站：</strong><a class="link"   href="https://www.cmd5.com/" >md5在线解密破解<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> （遇到加密，直接到这个网站试着解密）</p>
+<p><strong>常见前端加密</strong></p>
+<h5 id="base64加密与解密"><a href="#base64加密与解密" class="headerlink" title="base64加密与解密"></a>base64加密与解密</h5><p>window.atob() 与window.btoa()可以实现对base64格式的数据进行解码和编码，其兼容性是主流浏览器，IE10及以上。</p>
+<p>window.atob(encodedStr)只可以解码用btoa方法编码的字符串。</p>
+<p>window.btoa()：将ascii字符串或二进制数据转换成一个base64编码过的字符串,但该方法不能直接作用于Unicode字符串。</p>
+<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script&gt;</span><br><span class="line">      <span class="keyword">var</span> str = <span class="string">&#x27;RUNOOB&#x27;</span></span><br><span class="line">      <span class="keyword">var</span> enc = <span class="variable language_">window</span>.<span class="title function_">btoa</span>(str) <span class="comment">//编码成base64的</span></span><br><span class="line">      <span class="keyword">var</span> dec = <span class="variable language_">window</span>.<span class="title function_">atob</span>(enc) <span class="comment">//把base64解码</span></span><br><span class="line">      <span class="keyword">var</span> res = <span class="string">&#x27;编码字符串为: &#x27;</span> + enc + <span class="string">&#x27;&lt;br&gt;&#x27;</span> + <span class="string">&#x27;解码后字符串为: &#x27;</span> + dec</span><br><span class="line">      <span class="variable language_">console</span>.<span class="title function_">log</span>(res)</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure></div>
+
+<p>当遇到中文时，需要先对中文转码否则会乱码 </p>
+<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script&gt;</span><br><span class="line">    <span class="keyword">var</span> str = <span class="title function_">btoa</span>(<span class="built_in">encodeURIComponent</span>(<span class="string">&quot;中文汉字&quot;</span>));</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(str)</span><br><span class="line">    <span class="keyword">var</span> str1 = <span class="built_in">decodeURIComponent</span>(<span class="title function_">atob</span>(str))</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(str1)</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure></div>
+
+<h5 id="MD5加密"><a href="#MD5加密" class="headerlink" title="MD5加密"></a>MD5加密</h5><p>首先引入相关js,对要加密的内容直接加密</p>
+<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script src=<span class="string">&quot;https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js&quot;</span>&gt;&lt;/script&gt;</span><br><span class="line">&lt;script&gt;</span><br><span class="line">  <span class="keyword">var</span> b =$(<span class="string">&quot;#logPassword&quot;</span>);</span><br><span class="line">  $.<span class="title function_">md5</span>(b.<span class="title function_">val</span>())</span><br><span class="line">&lt;script&gt;</span><br></pre></td></tr></table></figure></div>
+
+<p>MD5没有解密算法，或者说解密算法很复杂，所以可以在数据库中存放经过<strong>两次MD5</strong>加密的的内容，也可以再配合加‘盐’ salt</p>
+<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="title function_">md5</span>(<span class="title function_">md5</span>(<span class="string">&quot;123456&quot;</span>)+<span class="string">&quot;a&quot;</span>));</span><br></pre></td></tr></table></figure></div>
+
+<h5 id="sha1加密"><a href="#sha1加密" class="headerlink" title="sha1加密"></a>sha1加密</h5><p>首先引入相关js,对要加密的内容直接加密</p>
+<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script type=<span class="string">&quot;text/ecmascript&quot;</span> src=<span class="string">&quot;sha1.js&quot;</span>&gt;&lt;/script&gt;</span><br><span class="line"><span class="keyword">var</span> sha = <span class="title function_">hex_sha1</span>(<span class="string">&#x27;mima123465&#x27;</span>);</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(sha);</span><br></pre></td></tr></table></figure></div>
+
+<h5 id="RSA用公钥私钥加密解密"><a href="#RSA用公钥私钥加密解密" class="headerlink" title="RSA用公钥私钥加密解密"></a>RSA用公钥私钥加密解密</h5><p>首先引入相关配置文件</p>
+<div class="code-container" data-rel="Js"><figure class="iseeu highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script src=<span class="string">&quot;js/jsencrypt.js&quot;</span>&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure></div>
+
+<p>前端在向后台发起登录请求之前，先请求后台获取公钥的方法</p>
+<div class="code-container" data-rel="Php"><figure class="iseeu highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> publicKey = <span class="literal">null</span>;</span><br><span class="line">$.<span class="title function_ invoke__">ajax</span>(&#123;</span><br><span class="line">    <span class="attr">url</span>: <span class="string">&quot;xxx&quot;</span>,</span><br><span class="line">    <span class="attr">type</span>: <span class="string">&quot;post&quot;</span>,</span><br><span class="line">    <span class="attr">dataType</span>: <span class="string">&quot;text&quot;</span>,</span><br><span class="line">    <span class="attr">success</span>: function(data) &#123;</span><br><span class="line">        <span class="keyword">var</span> encrypt = <span class="keyword">new</span> <span class="title class_">JSEncrypt</span>();</span><br><span class="line">        <span class="keyword">if</span>(data)&#123;</span><br><span class="line">            publicKey = data;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;);</span><br><span class="line"></span><br><span class="line"><span class="comment">// 通过公钥对用户名和密码加密</span></span><br><span class="line">encrypt.<span class="title function_ invoke__">setPublicKey</span>(publicKey);</span><br><span class="line"><span class="keyword">var</span> username;</span><br><span class="line"><span class="keyword">var</span> password;</span><br><span class="line">username = encrypt.<span class="title function_ invoke__">encrypt</span>(vm.username.<span class="title function_ invoke__">trim</span>());</span><br><span class="line">password = encrypt.<span class="title function_ invoke__">encrypt</span>(vm.password.<span class="title function_ invoke__">trim</span>());</span><br><span class="line"></span><br><span class="line"><span class="comment">// 接下来就是用加密后的用户名密码请求后台</span></span><br><span class="line">$.<span class="title function_ invoke__">ajax</span>(&#123;</span><br><span class="line">    <span class="attr">type</span>: <span class="string">&quot;POST&quot;</span>,</span><br><span class="line">    <span class="attr">url</span>: <span class="string">&quot;xxxxxx&quot;</span>,</span><br><span class="line">    <span class="attr">data</span>: &#123;</span><br><span class="line">        <span class="string">&quot;username&quot;</span>: username,</span><br><span class="line">        <span class="string">&quot;password&quot;</span>: password,</span><br><span class="line">    &#125;,</span><br><span class="line">    <span class="attr">dataType</span>: <span class="string">&quot;json&quot;</span>,</span><br><span class="line">    <span class="attr">success</span>: function(result) &#123;</span><br><span class="line">        <span class="keyword">if</span> (result.code == <span class="number">0</span>) &#123; <span class="comment">// 登录成功</span></span><br><span class="line">            <span class="built_in">parent</span>.location.href = <span class="string">&#x27;index.html&#x27;</span>;</span><br><span class="line">        &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">            vm.error = <span class="literal">true</span>;</span><br><span class="line">            vm.errorMsg = result.msg;</span><br><span class="line">            vm.<span class="title function_ invoke__">refreshCode</span>();</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure></div>
+
+<p><strong>待添加……</strong></p>
+<hr>
+<p><strong>再次提醒：本笔记内容仅用于学习和研究目的，严禁用于任何非法活动。如有违反，责任由使用者自行承担。</strong></p>
+]]></content>
+      <categories>
+        <category>网络安全</category>
+      </categories>
+      <tags>
+        <tag>暴力破解</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>计算机网络</title>
+    <url>/2025/02/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</url>
+    <content><![CDATA[<h1 id="计算机常见名词"><a href="#计算机常见名词" class="headerlink" title="计算机常见名词"></a>计算机常见名词</h1><h2 id="进制转换"><a href="#进制转换" class="headerlink" title="进制转换"></a>进制转换</h2><ul>
+<li>二进制 BIN </li>
+<li>八进制 OCT</li>
+<li>十进制 DEC</li>
+<li>十六进制 HEX</li>
+</ul>
+<h2 id="ASCII码"><a href="#ASCII码" class="headerlink" title="ASCII码"></a>ASCII码</h2><p>ASCII码使用7位二进制数来表示128个不同的字符（0到127）。ASCII码本身是7位编码，但现代计算机系统通常使用8位字节（即扩展ASCII码），因此可以表示更多的字符。</p>
+<ul>
+<li>控制字符（0-31）</li>
+<li>可打印字符（32-126）</li>
+<li>扩展字符（128-255）</li>
+</ul>
+<p>常见字符的ASCII码</p>
+<ul>
+<li>A：65</li>
+<li>a：97</li>
+<li>0：48</li>
+</ul>
+<h2 id="IP地址"><a href="#IP地址" class="headerlink" title="IP地址"></a>IP地址</h2><p>IP地址是IP协议提供的一种统一的地址格式，它为互联网上的每一个网络和每一台主机分配一个逻辑地址，以此来屏蔽物理地址的差异,使用计算机能够相互通讯。</p>
+<p>IP通常用“点分十进制”表示成 x.x.x.x (x∈[0,255]), 实际上是32位二进制数。</p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">注：浏览器输入“IP”，即可查询本机真实IP</span><br><span class="line">127.0.0.1 <span class="comment"># 本机地址</span></span><br></pre></td></tr></table></figure></div>
+
+<h2 id="MAC地址"><a href="#MAC地址" class="headerlink" title="MAC地址"></a>MAC地址</h2><p>网络设备之间唯一标识设备的硬件地址。它是一个48位的二进制数，通常以12位十六进制数的形式表示。在以太网中，数据包在传输时会根据MAC地址进行寻址。交换机通过MAC地址表来转发数据帧到正确的设备。</p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 查看MAC地址</span></span><br><span class="line">Windows	  ipconfig /all （查找“物理地址”或“MAC地址”）</span><br><span class="line">MacOS	  ifconfig （查找ether字段）</span><br><span class="line">Linux	  ifconfig （查找ether字段）</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="广播地址"><a href="#广播地址" class="headerlink" title="广播地址"></a>广播地址</h2><div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">专门用于同时向网络中（通常指同一子网）所有工作站进行发送的一个地址。</span><br><span class="line"></span><br><span class="line"><span class="comment"># 广播地址一般为 x.x.x.255</span></span><br></pre></td></tr></table></figure></div>
+
+<h2 id="子网掩码"><a href="#子网掩码" class="headerlink" title="子网掩码"></a>子网掩码</h2><p>一个32位的二进制数，用于区分IP地址中网络部分和主机部分。它与IP地址配合使用，帮助网络设备确定数据包的路由和目标设备的位置。基于子网掩码，管理员可以将网络进一步划分为若干子网。</p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 注：</span></span><br><span class="line">1.同网段通讯：直接发包</span><br><span class="line">2.不同网段通信：需要一个“中间人”（网关）</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="网关"><a href="#网关" class="headerlink" title="网关"></a>网关</h2><p>默认网关在网络层上以实现网络互连，是最复杂的网络互连设备，仅用于两个高层协议不同的网络互连。网关的结构也和路由器类似，不同的是互连层。网关既可以用于广域网互连，也可以用于局域网互连。网关的IP地址是具有路由功能的设备的IP地址。</p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 网关实质上是一个网络通向其他网络的IP地址</span></span><br><span class="line"><span class="comment"># 默认网关一般设置为 x.x.x.1</span></span><br></pre></td></tr></table></figure></div>
+
+<h2 id="域名"><a href="#域名" class="headerlink" title="域名"></a>域名</h2><p>由于IP地址具有不方便记忆并且不能显示地址组织的名称和性质等缺点，人们设计出了域名域名，并通过DNS系统来将域名和IP地址相互映射，使人更方便地访问互联网。</p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 什么是子域名？</span></span><br><span class="line">以 www.secdriver.com 为例：</span><br><span class="line">根域名为 .com</span><br><span class="line">主域名为  secdriver.com</span><br><span class="line">dh.secdriver.com 是 secdriver.com 的二级域名也可以叫做子域名。</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="DNS"><a href="#DNS" class="headerlink" title="DNS"></a>DNS</h2><p>域名解析</p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 常见的 DNS 安全问题</span></span><br><span class="line">DNS缓存投毒、DDoS攻击、域名劫持</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="CDN"><a href="#CDN" class="headerlink" title="CDN"></a>CDN</h2><p>CDN的全称是Content Delivery Network，即内容分发网络。CDN是构建在现有网络基础之上的智能虚拟网络，依靠部署在各地的边缘服务器，通过中心平台的负载均衡、内容分发、调度等功能模块，使用户就近获取所需内容，降低网络拥塞，提高用户访问响应速度和命中率。</p>
+<p>CDN的关键技术主要有<code>内容存储</code>和<code>分发技术</code>。</p>
+<h2 id="网桥"><a href="#网桥" class="headerlink" title="网桥"></a>网桥</h2><p>网桥是早期的两端口二层网络设备，也叫桥接器，是<strong>连接两个局域网</strong>的一种存储或转发设备。能将一个大的LAN分割为多个网段，或将两个以上的LAN互联为一个逻辑LAN，使LAN上的所有用户都可访问服务器。是一种链路层产品，扩展局域网最常见的方法是使用网桥。</p>
+<p>网桥的缺点：接口比较有限，默认是两个接口，对网络的冲突域隔离比较有限，网桥没有专用的硬件而是采用CPU来处理数据，所以处理速度相对较慢。</p>
+<h2 id="交换机"><a href="#交换机" class="headerlink" title="交换机"></a>交换机</h2><p>路由器</p>
+<p>NAT</p>
+<p>端口</p>
+<h1 id="网安常见名词"><a href="#网安常见名词" class="headerlink" title="网安常见名词"></a>网安常见名词</h1><p>网站语言类型</p>
+<p>Web服务框架</p>
+<p>后门</p>
+<p>抓包</p>
+<p>Web安全漏洞</p>
+<h1 id="VMware虚拟机"><a href="#VMware虚拟机" class="headerlink" title="VMware虚拟机"></a>VMware虚拟机</h1><p>桥接模式</p>
+<p>NAT模式</p>
+<p>仅主机模式</p>
+<p>自定义模式</p>
+<h1 id="计算机网络"><a href="#计算机网络" class="headerlink" title="计算机网络"></a>计算机网络</h1><p>OSI七层模型</p>
+<p>TCP&#x2F;IP四层模型</p>
+<p>TCP&#x2F;IP协议群</p>
+<p>数据链路层</p>
+<p>网络层</p>
+<p>传输层</p>
+<p>应用层</p>
+<p>HTTP协议</p>
+<h2 id="端口"><a href="#端口" class="headerlink" title="端口"></a>端口</h2><div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="comment">### 常见端口</span></span><br><span class="line">MySql 数据库 3306</span><br><span class="line">Oracle 数据库  1521</span><br><span class="line">Sql Server 数据库  1433</span><br><span class="line">PostgreSQL 数据库 5432；</span><br><span class="line">Redis 数据库 6379</span><br><span class="line">MongoDB 数据库  27017</span><br><span class="line">FTP 21端口</span><br><span class="line">SSH 22端口</span><br><span class="line">Telnet 23端口</span><br><span class="line">SMTP 25端口；</span><br><span class="line">DNS 53端口；</span><br><span class="line">HTTP 80端口</span><br><span class="line">POP3 110端口</span><br><span class="line">RPC 135端口</span><br><span class="line">SMB 139/445端口</span><br><span class="line">HTTPS  443端口</span><br><span class="line">RDP（Remote Desktop Protocol 远程桌面服务） 3389端口</span><br><span class="line">Apache/Tomcat/Nginx等中间件 80/8080端口</span><br><span class="line"></span><br><span class="line"><span class="comment"># windows查看端口命令</span></span><br><span class="line">netstat -anto</span><br><span class="line">netstat -anto -p tcp <span class="comment"># 查看开放的tcp端口</span></span><br><span class="line">netstat -anto -p udp <span class="comment"># 查看开放的udp端口</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># linux查看端口命令</span></span><br><span class="line">netstat -antp  <span class="comment"># 查看开放的tcp端口</span></span><br><span class="line">netstat -anup  <span class="comment"># 查看开放的udp端口</span></span><br><span class="line"></span><br></pre></td></tr></table></figure></div>
+
+<h1 id="Web-服务架构"><a href="#Web-服务架构" class="headerlink" title="Web 服务架构"></a>Web 服务架构</h1><p>一个网站的组成</p>
+<ul>
+<li><p>网站源码：网站语言类型（asp, aspx, php, jsp, jspx, html, 框架类）</p>
+</li>
+<li><p>开发框架：Thinkphp、struts2、Spring、flask、django 等</p>
+</li>
+<li><p>操作系统：windows &#x2F; linux</p>
+</li>
+<li><p>中间件：IIS、apache、nginx、tomcat、weblogic 等</p>
+</li>
+<li><p>数据库：mysql、mssql、access、oracle 、SQLite等</p>
+</li>
+</ul>
+<p>常见的WEB服务架构模型</p>
+<ul>
+<li><p>APS.NET + IIS + MSSQL + windows</p>
+</li>
+<li><p>JSP + Tomcat + Mysql + linux</p>
+</li>
+<li><p>PHP + Apache + mysql + linux + Thinkphp</p>
+</li>
+</ul>
+<h1 id="各层协议"><a href="#各层协议" class="headerlink" title="各层协议"></a>各层协议</h1><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://fulici.github.io/picx-images-hosting/20250210/image-20241216095647625.7snbyfms8r.webp"
+                      alt="image-20241216095647625"
+                > </p>
+]]></content>
+      <categories>
+        <category>网络安全</category>
+      </categories>
+      <tags>
+        <tag>计算机网络</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>信息收集</title>
+    <url>/2025/02/11/%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/</url>
+    <content><![CDATA[<p><strong>注意：本学习笔记仅供个人学习和研究使用，严禁用于任何非法活动。所有内容均基于合法、合规的学习目的编写。</strong></p>
+<hr>
+<h1 id="信息收集都收集什么？"><a href="#信息收集都收集什么？" class="headerlink" title="信息收集都收集什么？"></a>信息收集都收集什么？</h1><ul>
+<li>网站是谁的；（注册人&#x2F;机构）</li>
+<li>它还有其它网站吗；</li>
+<li>网站的编程语言；</li>
+<li>使用的WEB容器 ;（apache、iis）</li>
+<li>网站的后台地址；</li>
+<li>网站的服务器；（windows、linux）</li>
+<li>服务器的ip；</li>
+<li>这个ip开放的端口；</li>
+<li>这个网站是不是某一款流行的cms产品。</li>
+</ul>
+<blockquote>
+<p>CMS（Content Management System，内容管理系统）是一种用于创建、管理和发布网站内容的软件工具。</p>
+</blockquote>
+<h1 id="域名"><a href="#域名" class="headerlink" title="域名"></a>域名</h1><p>域名ip查询：</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">ping XXX.com      # ping DNS解析</span><br><span class="line">nslookup XXX.com  # nslookup DNS解析</span><br></pre></td></tr></table></figure></div>
+
+<p>查看本机DNS：</p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">ipconfig -all</span><br></pre></td></tr></table></figure></div>
+
+<p><code>hosts</code> 文件位于以下路径：</p>
+<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">C:\Windows\System32\drivers\etc\hosts</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="IP反查域名"><a href="#IP反查域名" class="headerlink" title="IP反查域名"></a>IP反查域名</h2><p>通过IP可以反查出绑定在该网站的域名，来发现更多资产</p>
+<ul>
+<li><p>ip138：<a class="link"   href="https://site.ip138.com/" >https://site.ip138.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+<li><p>webscan：<a class="link"   href="https://www.webscan.cc/" >https://www.webscan.cc/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+<li><p>VirusTotal：<a class="link"   href="https://www.virustotal.com/" >https://www.virustotal.com<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 【推荐使用】</p>
+</li>
+<li><p>微步在线：<a class="link"   href="https://x.threatbook.cn/" >https://x.threatbook.cn/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+</ul>
+<h2 id="Whois查询"><a href="#Whois查询" class="headerlink" title="Whois查询"></a>Whois查询</h2><p>whois指的是<strong>域名注册时留下的信息</strong>，比如留下<strong>管理员的名字</strong>、<strong>电话号码</strong>、<strong>邮箱</strong>。</p>
+<p>知道目标的域名之后，我们要做的第一件事就是获取域名的whois信息，因为域名注册人可能是网站管理员，可以尝试社工、套路，查询是不是注册了其他域名扩大攻击范围。</p>
+<p><strong>查询网站</strong></p>
+<ul>
+<li><p>爱站工具网: <a class="link"   href="https://whois.aizhan.com/" >https://whois.aizhan.com<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> </p>
+</li>
+<li><p>站长之家: <a class="link"   href="http://whois.chinaz.com/" >http://whois.chinaz.com<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+<li><p>VirusTotal: <a class="link"   href="https://www.virustotal.com/" >https://www.virustotal.com<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+</ul>
+<p>通过这些网站可以查询域名的相关信息，如域名服务商、域名拥有者，以及他们的邮箱、电话、地址等。</p>
+<p><strong>kali工具</strong></p>
+<p>whois 域名</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">whois www.XXX.com</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="ICP备案信息查询"><a href="#ICP备案信息查询" class="headerlink" title="ICP备案信息查询"></a>ICP备案信息查询</h2><p>网站备案是根据国家法律法规规定，需要网站的所有者向国家有关部门申请的备案，这是国家信息产业部对网站的一种管理，为了防止在网上从事非法的网站经营活动的发生。主要针对国内网站，如果网站搭建在其他国家，则不需要进行备案。</p>
+<p>常用的网站有以下几个：</p>
+<ul>
+<li><p>工业和信息化部政务服务平台：<a class="link"   href="https://beian.miit.gov.cn/" >https://beian.miit.gov.cn/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+<li><p>全国互联网安全管理平台：<a class="link"   href="http://www.beian.gov.cn/portal/recordQuery" >http://www.beian.gov.cn/portal/recordQuery<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+<li><p>天眼查：<a class="link"   href="http://www.tianyancha.com/" >http://www.tianyancha.com<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+</ul>
+<h2 id="子域名收集"><a href="#子域名收集" class="headerlink" title="子域名收集"></a>子域名收集</h2><p>假设我们的目标网络规模比较大，直接从主域入手显然是很不理智的，因为对于这种规模的目标，一般其主域都是重点防护区域，所以不如先进入目标的某个子域，然后再想办法迂回接近真正的目标。</p>
+<p><strong>网站查询子域名</strong></p>
+<ul>
+<li><p>VirusTotal：<a class="link"   href="https://www.virustotal.com/gui/home/search" >https://www.virustotal.com/gui/home/search<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+<li><p>fofa：<a class="link"   href="https://fofa.info/" >https://fofa.info/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 【输入：<code>domain=&quot;XXX.com&quot;</code>】</p>
+</li>
+<li><p>浏览器搜索：<code>子域名查询网站</code></p>
+</li>
+</ul>
+<p><strong>工具扫描</strong></p>
+<ul>
+<li>Layer子域名挖掘机</li>
+</ul>
+<h1 id="端口"><a href="#端口" class="headerlink" title="端口"></a>端口</h1><h2 id="插件探测"><a href="#插件探测" class="headerlink" title="插件探测"></a>插件探测</h2><p><strong>火狐浏览器插件</strong></p>
+<ul>
+<li>Fofa Pro view</li>
+<li>shodan</li>
+</ul>
+<h2 id="工具扫描"><a href="#工具扫描" class="headerlink" title="工具扫描"></a>工具扫描</h2><h3 id="nmap"><a href="#nmap" class="headerlink" title="nmap"></a>nmap</h3><p><strong>nmap常用参数</strong></p>
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>解释</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-sP</td>
+<td>Ping扫描</td>
+</tr>
+<tr>
+<td>-sS</td>
+<td>快速扫描，SYN 半开放扫描</td>
+</tr>
+<tr>
+<td>-sT</td>
+<td>TCP全连接扫描（默认）</td>
+</tr>
+<tr>
+<td>-sU</td>
+<td>UDP端口扫描，不准确</td>
+</tr>
+<tr>
+<td>-sA</td>
+<td>穿过防火墙的规则集，速度慢</td>
+</tr>
+<tr>
+<td>-P0</td>
+<td>空闲扫描，无Ping扫描</td>
+</tr>
+<tr>
+<td>-PN</td>
+<td>防火墙禁ping，不使用ping扫描</td>
+</tr>
+<tr>
+<td>-PR</td>
+<td>ARP Ping 扫描，速度很快</td>
+</tr>
+<tr>
+<td>-PS</td>
+<td>TCP SYN Ping扫描</td>
+</tr>
+<tr>
+<td>-PA</td>
+<td>TCP ACK Ping扫描</td>
+</tr>
+<tr>
+<td>-sV</td>
+<td>端口服务及版本</td>
+</tr>
+<tr>
+<td>-sC</td>
+<td>–script&#x3D;default 默认的脚本扫描，主要是搜集各种应用服务的信息</td>
+</tr>
+<tr>
+<td>-O</td>
+<td>探测目标系统版本</td>
+</tr>
+<tr>
+<td>-A</td>
+<td>包含了-sV，-O，全面系统检测，启动脚本检测，扫描漏洞等（有误报）</td>
+</tr>
+<tr>
+<td>-p</td>
+<td>指定端口号 如: 80,81,8000-9000</td>
+</tr>
+<tr>
+<td>-T</td>
+<td>扫描速度T0~T5 ,默认T3， 速度越快精度越低</td>
+</tr>
+<tr>
+<td>–open</td>
+<td>只显示开放的端口</td>
+</tr>
+<tr>
+<td>-v &#x2F; -vv</td>
+<td>显示详细信息，-vv 比 -v 更详细</td>
+</tr>
+<tr>
+<td>-iL</td>
+<td>从文件导入要扫描的 ip 列表</td>
+</tr>
+<tr>
+<td>-oN &#x2F; -oX &#x2F; -oG</td>
+<td>将报告写入文件，格式分别为正常（自定义.txt）,XML,grepable</td>
+</tr>
+<tr>
+<td>-exclude</td>
+<td>排除某些不需要扫描的 ip</td>
+</tr>
+</tbody></table>
+<p><strong>基本使用</strong></p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">nmap 172.18.0.197</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Nmap 默认发送⼀个arp的ping数据包，来探测⽬标主机在1-10000范围内所开放的端⼝</span></span><br></pre></td></tr></table></figure></div>
+
+<p><strong>主机发现</strong></p>
+<p>主机发现的原理与Ping命令类似，发送探测包到目标主机，如果收到回复，那么说明目标主机是开启的。</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">nmap -sP 192.168.1.0/24  </span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">进行ping扫描，打印出对扫描做出响应的主机,不做进一步测试端口扫描或者操作系统探测</span></span><br></pre></td></tr></table></figure></div>
+
+<p><strong>操作系统识别</strong></p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">nmap -O 172.18.0.197                 <span class="comment"># 操作系统版本探测</span></span><br><span class="line">nmap -O --osscan-limit 172.18.0.197  <span class="comment"># 探测操作系统版本详细信息</span></span><br><span class="line">nmap -O --osscan-guess 172.18.0.197  <span class="comment"># 猜测操作系统版本</span></span><br><span class="line">nmap -A 172.18.0.197                 <span class="comment"># 操作系统探测和服务版本探测等</span></span><br></pre></td></tr></table></figure></div>
+
+<p><strong>端口扫描</strong></p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">nmap -sT 172.18.0.197 -p 21,22,23,53,80,135,443,445     <span class="comment"># (默认) TCP全连接扫描,常见端口</span></span><br><span class="line">nmap -sS 172.18.0.197 -p 1-3000 --open -vv              <span class="comment"># (常用) 快速扫描 1-3000 范围端口,只显示开放端口信息</span></span><br><span class="line">nmap -PN 172.18.0.197 -p 1-3000                         <span class="comment"># 不使用ping命令扫描</span></span><br><span class="line">nmap -PR 172.18.0.197 -p 1-3000                         <span class="comment"># arp扫描，内网中局域网防火墙不拦截，速度很快</span></span><br><span class="line">nmap -P0 172.18.0.197 -p 1-3000                         <span class="comment"># 空闲扫描，不会留下记录</span></span><br><span class="line">nmap -sV 172.18.0.197 -p 3389,5985,6588,999,21,80 -A  	<span class="comment"># 探测端口信息</span></span><br></pre></td></tr></table></figure></div>
+
+<p><strong>格式化输出</strong></p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 使用 nmap 结果美化 model, 美化 nmap 输出的 xml 文档，使用-oX xxx.xml 或者 -oA xxx 可将结果导出为 xml 格式</span></span><br><span class="line"><span class="comment"># 端口信息探测 + 系统探测 + 基础扫描</span></span><br><span class="line">nmap -sV -A 172.18.0.197 -p 80,88,135,139,443,445,903,1080,1688,3306,5357 -oA mysite</span><br><span class="line"><span class="comment"># 格式化 xml 文档</span></span><br><span class="line">xsltproc -o mysite.html mode.xsl mysite.xml</span><br><span class="line"><span class="comment"># 使用浏览器打开 html 文档</span></span><br><span class="line">firefox mysite.html</span><br></pre></td></tr></table></figure></div>
+
+<p><strong>常见端口</strong></p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">80,89,8000,9090,1433,1521,3306,5432,445,135,443,873,5984,6379,7001,7002,9200,9300,11211,27017,27018,50000,50070,50030,21,22,23,2601,3389</span><br></pre></td></tr></table></figure></div>
+
+<h3 id="masscan"><a href="#masscan" class="headerlink" title="masscan"></a>masscan</h3><p>masscan 是 Kali 下集成的高效扫描器 , 速度非常快。</p>
+<p>masscan 常用参数</p>
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>解释</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>–ping</td>
+<td>发送icmp数据包，进行主机存活探测</td>
+</tr>
+<tr>
+<td>-adapter-ip</td>
+<td>指定发包的ip地址（伪造ip）</td>
+</tr>
+<tr>
+<td>–adapter-port</td>
+<td>指定发包源端口</td>
+</tr>
+<tr>
+<td>–adapter-mac</td>
+<td>指定发包的源MAC地址</td>
+</tr>
+<tr>
+<td>–router-mac</td>
+<td>指定网关MAC地址</td>
+</tr>
+<tr>
+<td>–exclude</td>
+<td>IP地址范围黑名单，不扫描的IP</td>
+</tr>
+<tr>
+<td>–excludefile</td>
+<td>指定IP地址范围黑名单文件</td>
+</tr>
+<tr>
+<td>–includefile &#x2F; -iL</td>
+<td>读取一个范围列表进行扫描</td>
+</tr>
+<tr>
+<td>–wait</td>
+<td>指定在退出程序之前等待接收数据包，默认值为10秒</td>
+</tr>
+<tr>
+<td>-p</td>
+<td>指定要扫描的端口类型及范围 -p U：1024-1100</td>
+</tr>
+<tr>
+<td>–rate</td>
+<td>指定线程数，推荐1000~3000</td>
+</tr>
+<tr>
+<td>–banners</td>
+<td>抓取端口服务信息，仅支持部分协议</td>
+</tr>
+<tr>
+<td>–open-only</td>
+<td>只显示开放的端口</td>
+</tr>
+<tr>
+<td>–http-user-agent</td>
+<td>使用指定的user-agent发送http请求</td>
+</tr>
+<tr>
+<td>-sL</td>
+<td>不执行扫描，而是创建一个随机地址列表</td>
+</tr>
+<tr>
+<td>–output-format</td>
+<td>指示输出文件的格式，可以是 xml，二进制，grepable，list , JSON</td>
+</tr>
+<tr>
+<td>–output-filename</td>
+<td>输出的文件名</td>
+</tr>
+<tr>
+<td>-oX &#x2F; -oB &#x2F;-oG &#x2F; -oL &#x2F; -oJ</td>
+<td>格式化输出为某种文件形式 xml , 二进制 , grepable , list , json</td>
+</tr>
+</tbody></table>
+<p><strong>基本用法</strong></p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">masscan 192.168.23.1 -p 1-3000</span><br></pre></td></tr></table></figure></div>
+
+<p><strong>枚举C段</strong></p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">-sL 参数可以枚举网段</span><br><span class="line">masscan -sL 10.0.0.0/24 &gt; c段.txt</span><br><span class="line">masscan -sL 10.0.0.0/16 &gt; b段.txt</span><br><span class="line">masscan -sL 10.0.0.0/8 &gt; a段.txt</span><br></pre></td></tr></table></figure></div>
+
+<h3 id="御剑端口扫描"><a href="#御剑端口扫描" class="headerlink" title="御剑端口扫描"></a>御剑端口扫描</h3><h1 id="C段和旁站"><a href="#C段和旁站" class="headerlink" title="C段和旁站"></a>C段和旁站</h1><h2 id="旁站"><a href="#旁站" class="headerlink" title="旁站"></a>旁站</h2><p>旁注：同服务器不同站点的渗透方案</p>
+<p>旁站指的是网站所在服务器上部署的其他网站，同IP网站，一个IP上布置了多个网站从同台服务器上的其他网站入手，获取到服务器权限，自然就获取到了目标网站的权限。</p>
+<h2 id="C段"><a href="#C段" class="headerlink" title="C段"></a>C段</h2><p><strong>C段</strong>：同网段不同服务器的渗透方案</p>
+<p>C 段嗅探指的是拿下同一C段下的服务器，也就是说是D段1-255中的一台服务器，再通过内网横向移动获取你想要的服务器权限。</p>
+<p>例如192.168.1.66 -&gt; 192.168.1.4 能够相互通讯</p>
+<p>可以控制该网段中的192.168.1.66，再通过内网横向移动来控制 192.168.1.4 </p>
+<p>注意：一般情况下云服务器C段的IP都是相互独立的，这些服务器分属不同用户，没有渗透的必要。</p>
+<p><strong>在线查询网站</strong></p>
+<p><a class="link"   href="https://www.webscan.cc/" >https://www.webscan.cc/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p><strong>工具扫描C段</strong></p>
+<p>一般可以扫描一些常见端口，来发现C段中在线的主机，比如</p>
+<p><strong>nmap</strong></p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">nmap -A -vv 192.168.23.1/24    <span class="comment"># 很慢，慎用可以加-T参数</span></span><br><span class="line">nmap -PR -vv 192.168.23.1/24 -p 1-1000,8000-9000 --open  <span class="comment"># arp 扫描, 速度快</span></span><br><span class="line">nmap -PN -vv 192.168.23.1/24 -p 1-1000 --open <span class="comment"># 不使用ping扫描，能发现禁ping主机</span></span><br></pre></td></tr></table></figure></div>
+
+<p><strong>masscan</strong></p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">masscan 192.168.23.1/24 --ping   <span class="comment"># icmp探测C段在线主机</span></span><br><span class="line">masscan 192.168.23.1/24 -p</span><br><span class="line">21,22,80,137,138,139,443,445,1433,1434,1521,3306,6379,7001,8000,8080,9001 --open-only</span><br></pre></td></tr></table></figure></div>
+
+<p><strong>御剑端口扫描</strong></p>
+<h1 id="目录信息"><a href="#目录信息" class="headerlink" title="目录信息"></a>目录信息</h1><ul>
+<li>寻找到网站后台管理</li>
+<li>寻找未授权界面</li>
+<li>寻找网站更多隐藏信息</li>
+<li>发现这个网站存在多少个目录，多少个页面，探索出网站的整体结构</li>
+<li>发现敏感文件，后台文件，数据库文件，和信息泄漏文件等等</li>
+</ul>
+<p><strong>常见的后台管理页面</strong></p>
+<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">manager/admin.asp</span><br><span class="line">login/admin/admin.asp</span><br><span class="line">houtai/admin.asp</span><br><span class="line">guanli/admin.asp</span><br><span class="line">denglu/admin.asp</span><br><span class="line">admin login/admin.asp</span><br><span class="line">admin_login/login.asp</span><br><span class="line">admin/manage/admin.asp</span><br><span class="line">admin/manage/login.asp</span><br><span class="line">admin/default/admin.asp</span><br><span class="line">admin/default/login.asp</span><br><span class="line">member/admin.asp</span><br><span class="line">member/login.asp</span><br><span class="line">administrator/admin.asp</span><br><span class="line">administrator/login.asp</span><br></pre></td></tr></table></figure></div>
+
+<p><strong>robots.txt</strong></p>
+<p>Robots协议(Robots Exclusion Protocol)“网络爬虫排除标准”，网站通过Robots协议告诉搜索引擎哪些页面可以抓取，哪些页面不能抓取，同时也记录网站所具有基本的目录。</p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 如百度：</span></span><br><span class="line">baidu.com/robots.txt</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="目录扫描工具"><a href="#目录扫描工具" class="headerlink" title="目录扫描工具"></a>目录扫描工具</h2><p><strong>dirsearch</strong></p>
+<p>dirsearch是一个基于python3的命令行工具，旨在暴力扫描页面结构，包括网页中的目录和文件。</p>
+<ul>
+<li><p>依赖安装： <code>pip install -r requirements.txt</code></p>
+</li>
+<li><p>简单使用：<code>python dirsearch.py -u 目标地址</code></p>
+</li>
+</ul>
+<p><strong>常用参数</strong></p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="comment">## 基本使用</span></span><br><span class="line">-h          <span class="comment"># 使用帮助</span></span><br><span class="line">-u          <span class="comment"># 指定目标url，最好加上协议类型 如http https</span></span><br><span class="line">-L          <span class="comment"># 指定url列表文件</span></span><br><span class="line">-e          <span class="comment"># 参数指定网站类型 php, jsp, asp, aspx, do, action, cgi, pl, html, htm, js, json, tar.gz, bak (-e *代表所有)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">## 自定义选项</span></span><br><span class="line">-w          <span class="comment"># 指定字典扫描（字典可以在Github上搜：PentesterSpecialDict）</span></span><br><span class="line">-t          <span class="comment"># 指定线程数（默认20）</span></span><br><span class="line">-r          <span class="comment"># 递归扫描 扫描到目录文件会进一步向下挖掘</span></span><br><span class="line">-random-agents <span class="comment"># 使用随机UA</span></span><br><span class="line">-H          <span class="comment"># 使用指定headers (e.g. --header &quot;Referer: example.com&quot; --header &quot;User-Agent: IE&quot;)</span></span><br><span class="line">-m          <span class="comment"># 指定http请求方式，默认get</span></span><br><span class="line">-d          <span class="comment"># 发送的 data 数据</span></span><br><span class="line">--cookie    <span class="comment"># 添加 cookie</span></span><br><span class="line">--proxy     <span class="comment"># 添加代理 e.g. --proxy 127.0.0.1:1080</span></span><br><span class="line"></span><br><span class="line"><span class="comment">## 过滤扫描结果</span></span><br><span class="line">-i /                   <span class="comment"># http 状态码白名单 (e.g. 200,300-399)</span></span><br><span class="line">-x / --exclude-status  <span class="comment"># 排除指定 http 状态码 （e.g.: 301,403,500-599)</span></span><br><span class="line">--exclude-texts        <span class="comment"># 文本排除响应 (e.g.: &quot;Not found&quot;, &quot;Error&quot;)</span></span><br><span class="line">--exclude-regexps      <span class="comment"># 按regexp排除响应，用逗号分隔(e.g.: &quot;Not foun[a-z]&#123;1&#125;&quot;, &quot;^Error$&quot;)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">## 报告输出</span></span><br><span class="line">-o          <span class="comment"># 指定报告文件输出地址</span></span><br><span class="line">--format    <span class="comment"># 报告文件格式 (默认: simple, plain, json, xml,md, csv, html, sqlite)</span></span><br><span class="line">--<span class="built_in">log</span>       <span class="comment"># 输出扫描日志文件 (一般不用)</span></span><br></pre></td></tr></table></figure></div>
+
+<p>注意：请求太快的话，可能扫不到。可以使用 <code>-t 数字</code> 指定扫描线程数。</p>
+<h1 id="网站指纹"><a href="#网站指纹" class="headerlink" title="网站指纹"></a>网站指纹</h1><p>在web渗透过程中，Web指纹识别是信息收集环节中一个比较重要的步骤，通过一些开源的工具、平台或者手工检测CMS系统是公开的CMS程序还是二次开发至关重要，能准确的获取CMS类型、Web服务组件类型及版本信息可以帮助安全工程师快速有效的去验证已知漏洞。对目标渗透测试过程中，目标的cms是十分重要的信息，有了目标的cms，就可以利用相关bug进行测试，进行代码审计等。</p>
+<p><strong>识别方式</strong></p>
+<p>1、网站特有文件</p>
+<ul>
+<li>如<code>/templets/default/style/dedecms.css — dedecms</code></li>
+</ul>
+<p>2、网站独有文件的md5</p>
+<ul>
+<li><p>如<code>favicon.ico</code>，但是该文件可以被修改导致不准确。</p>
+</li>
+<li><p>文件md5计算： <code>certutil -hashfile filename MD5</code></p>
+</li>
+</ul>
+<p>3、网站文件命名规则</p>
+<p>4、返回头的关键字 如 <code>header=&quot;rememberMe=deleteMe&quot;</code></p>
+<p>5、网页关键字</p>
+<ul>
+<li>如：<code>/data/sessions/index.html——dedecms</code>， <code>/data/admin/ver.txt</code></li>
+</ul>
+<p>6、Url特征</p>
+<p>7、网站路径特征</p>
+<p>8、网站静态资源</p>
+<p>9、爬虫网站目录信息</p>
+<p><strong>指纹识别的对象</strong></p>
+<p>1、CMS信息：比如大汉CMS、织梦、帝国CMS、phpcms、ecshop等；</p>
+<p>2、前端技术：比如HTML5、jquery、bootstrap、pure、ace等；</p>
+<p>3、Web服务器：比如Apache、lighttpd, Nginx, IIS等；</p>
+<p>4、应用服务器：比如Tomcat、Jboss、weblogic、websphere等；</p>
+<p>5、开发语言：比如PHP、Java、Ruby、Python、C#等；</p>
+<p>6、操作系统信息：比如linux、win2008、win7、kali、centos等；</p>
+<p>7、CDN信息：是否使用CDN，如cloudflare、360cdn、365cyd、yunjiasu等；</p>
+<p>8、WAF信息：是否使用waf，如Topsec、safedog、Yundun等；</p>
+<p>9、IP及域名信息：IP和域名注册信息、服务商信息等；</p>
+<p>10、端口信息：有些软件或平台还会探测服务器开放的常见端口。</p>
+<h2 id="识别工具"><a href="#识别工具" class="headerlink" title="识别工具"></a>识别工具</h2><p>Kali工具：<strong>whatweb</strong></p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">whatweb 域名 <span class="comment"># 单个域名识别</span></span><br></pre></td></tr></table></figure></div>
+
+<p><strong>在线指纹识别</strong></p>
+<p><a class="link"   href="http://whatweb.bugscaner.com/" >http://whatweb.bugscaner.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p><a class="link"   href="http://pentest.gdpcisa.org/whatcms" >http://pentest.gdpcisa.org/whatcms<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p><strong>指纹探测插件</strong></p>
+<p>Wapplyzer</p>
+<h1 id="CDN"><a href="#CDN" class="headerlink" title="CDN"></a>CDN</h1><p><strong>认识CDN</strong></p>
+<p>在用户访问网站时，利用全局负载技术将用户的访问<strong>指向距离最近的工作正常的缓存服务器上</strong>，由缓存服务器直接响应用户请求。</p>
+<h2 id="CDN识别"><a href="#CDN识别" class="headerlink" title="CDN识别"></a>CDN识别</h2><p>命令：<code>nslookup</code></p>
+<p>多地ping网站：<a class="link"   href="https://ping.chinaz.com/" >https://ping.chinaz.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 、 <a class="link"   href="https://tools.ipip.net/ping.php" >https://tools.ipip.net/ping.php<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p>在线识别：<a class="link"   href="https://www.cdnplanet.com/tools/cdnfinder" >https://www.cdnplanet.com/tools/cdnfinder<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p>示例网站：<a class="link"   href="https://royalapps.com/" >https://royalapps.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> 、<a class="link"   href="https://taobao.com/" >https://taobao.com<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p><strong>GET请求</strong></p>
+<p>GET 请求页面&#x2F;文件地址，查看 HTTP 响应头中是否存在 “cache xxx” 的值，若存在，则表示有走 CDN。</p>
+<p><strong>ping域名</strong></p>
+<p>ping 域名，查看 ping 的实际地址，若实际地址为 CDN 节点地址，则表示有走 CDN。</p>
+<p><strong>nslookup解析</strong></p>
+<p>nslookup 域名，若解析结果有多个，很有可能存在CDN，相反，若解析结果只有一个，可能不存在CDN(不能肯定)。</p>
+<p><strong>多地ping</strong></p>
+<p>利用多地区的ping服务器操作，然后对比每个地区ping出的IP结果，查看这些IP是否一致， 如果都是一样的，极有可能不存在CDN。如果IP大多不太一样或者规律性很强，可以尝试查询这些IP的归属地，判断是否存在CDN。</p>
+<blockquote>
+<p>注：如果一个IP下面绑定了很少域名且域名有规律，大概率是这个域名的真实IP。</p>
+</blockquote>
+<h2 id="CDN厂商识别"><a href="#CDN厂商识别" class="headerlink" title="CDN厂商识别"></a>CDN厂商识别</h2><p><strong>CDN查询网站</strong></p>
+<p><a class="link"   href="https://www.cdnplanet.com/tools/cdnfinder/#" >https://www.cdnplanet.com/tools/cdnfinder/#<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p><a class="link"   href="http://tools.bugscaner.com/whichcdn/" >http://tools.bugscaner.com/whichcdn/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p>国外厂商：CloudFlare、StackPath、Fastly、CDNetworks、CacheFly、CloudFront</p>
+<p>国内厂商：阿里云CDN、Ucloud、Nodecache、腾讯云CDN、网宿CDN、白山CDN、金山CDN</p>
+<p>CloudFlare：<a class="link"   href="https://gyzzwk.ml/" >https://gyzzwk.ml/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p>StackPath：<a class="link"   href="https://151.139.113.56/" >https://151.139.113.56/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p>Alibaba：<a class="link"   href="https://www.taobao.com/" >https://www.taobao.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p>Wangsu：<a class="link"   href="https://www.chinaz.com/" >https://www.chinaz.com<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p>Tencent Cloud：<a class="link"   href="https://qq.com/" >https://qq.com<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h2 id="CDN绕过"><a href="#CDN绕过" class="headerlink" title="CDN绕过"></a>CDN绕过</h2><p>绕过CDN找真实IP。</p>
+<p><strong>子域名查询</strong></p>
+<p>CDN是付费的，一些网站主站因为业务需要可能做了CDN加速，但是其他域名可能没有做CDN加速。</p>
+<p><strong>第三方网站查询</strong></p>
+<p>网站IP&amp;地址查询：<a class="link"   href="https://get-site-ip.com/" >https://get-site-ip.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p>历史DNS信息查询：<a class="link"   href="https://securitytrails.com/app/account" >https://securitytrails.com/app/account<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p><strong>国外地址请求</strong></p>
+<p>ping工具：<a class="link"   href="https://ping.sx/ping" >https://ping.sx/ping<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p>IPIP：<a class="link"   href="https://tools.ipip.net/newping.php" >https://tools.ipip.net/newping.php<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p><strong>邮件服务器获取IP</strong></p>
+<p>目标服务器主动连接我们时，不会受到CDN影响。</p>
+<p>目标网站存在邮件验证等功能时，我们通过查看邮件源码，可能获取邮件服务器IP地址 及 发件人 IP地址。</p>
+<p>服务器IP：<code>Received: from xxxxxx</code></p>
+<p>发件人IP：<code>X-Originating-IP</code></p>
+<p><strong>文件指纹找真实IP</strong></p>
+<p>网站的一些特定的东西，是不会参与CDN加速的。如 <code>ico图标</code> ，然后找到网站<code>ico</code>图标，根据图标找资产。</p>
+<p>查询网站：</p>
+<ul>
+<li><a class="link"   href="https://fofa.info/" >FOFA<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> （该功能收费）</li>
+<li><a class="link"   href="https://hunter.qianxin.com/" >奇安信鹰图<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> （不收费，点击图标检索）</li>
+<li><a class="link"   href="https://www.shodan.io/" >Shodan<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> （有查询次数限制）</li>
+</ul>
+<blockquote>
+<p>注：因为 shodan 高级功能要收费，通过脚本可以获取 ico hash</p>
+</blockquote>
+<p><code>icohash.py</code> </p>
+<div class="code-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> mmh3</span><br><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"><span class="keyword">import</span> base64</span><br><span class="line">response = requests.get(<span class="string">&#x27;https://www.baidu.com/favicon.ico&#x27;</span>)</span><br><span class="line">favicon = base64.b64encode(response.content).decode()</span><br><span class="line"><span class="built_in">hash</span> = mmh3.<span class="built_in">hash</span>(favicon)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;http.favicon.hash:&#x27;</span>+<span class="built_in">str</span>(<span class="built_in">hash</span>))</span><br></pre></td></tr></table></figure></div>
+
+<p>运行：<code>python .\icohash.py</code> </p>
+<p><strong>mmh3安装方式</strong></p>
+<p>1、第一种（推荐）：</p>
+<ul>
+<li><p>mmh3 依赖下载地址：<a class="link"   href="https://www.wheelodex.org/projects/mmh3/wheels/mmh3-3.0.0-cp39-cp39-win_amd64.whl/" >https://www.wheelodex.org/projects/mmh3/wheels/mmh3-3.0.0-cp39-cp39-win_amd64.whl/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+<li><p>安装指定依赖包: <code>pip install mmh3-3.0.0-cp39-cp39-win_amd64.whl</code></p>
+</li>
+</ul>
+<p>2、第二种（不推荐，vs2019非常大）：</p>
+<ul>
+<li>安装vs2019 下载组件 C++ ATL v141</li>
+</ul>
+<h1 id="FOFA语法"><a href="#FOFA语法" class="headerlink" title="FOFA语法"></a>FOFA语法</h1><p>网址：<a class="link"   href="https://fofa.info/" >https://fofa.info/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p>其它网站：</p>
+<ul>
+<li>360Quake：<a class="link"   href="https://quake.360.cn/" >https://quake.360.cn/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>奇安信鹰图：<a class="link"   href="https://hunter.qianxin.com/" >https://hunter.qianxin.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<p><strong>高级搜索</strong></p>
+<p><code>&amp;&amp; = and</code></p>
+<p>可以使用括号 和 &amp;&amp; (与) 、|| (或)、 !&#x3D; (非)、等符号，如</p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">title=<span class="string">&quot;powered by&quot;</span> &amp;&amp; title!=<span class="string">&quot;discuz&quot;</span></span><br><span class="line">body=<span class="string">&quot;content=WordPress&quot;</span> || (header=<span class="string">&quot;X-Pingback&quot;</span> &amp;&amp; header=<span class="string">&quot;/xmlrpc.php&quot;</span> &amp;&amp; </span><br><span class="line">body=<span class="string">&quot;/wp-includes/&quot;</span>) &amp;&amp; host=<span class="string">&quot;gov.cn&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p><strong>常用语法</strong></p>
+<div class="code-container" data-rel="Sh"><figure class="iseeu highlight sh"><table><tr><td class="code"><pre><span class="line">domain=<span class="string">&quot;qq.com&quot;</span>                <span class="comment"># 查询子域名</span></span><br><span class="line">host=<span class="string">&quot;.gov.cn&quot;</span>                 <span class="comment"># 从url中搜索&quot;.gov.cn&quot;</span></span><br><span class="line">header=<span class="string">&quot;thinkphp&quot;</span>              <span class="comment"># 从http头中搜索thinkphp</span></span><br><span class="line">port=<span class="string">&quot;6379&quot;</span>                    <span class="comment"># 查找对应“6379”端口的资产</span></span><br><span class="line">ip=<span class="string">&quot;1.1.1.1&quot;</span>                   <span class="comment"># 从ip中搜索包含“1.1.1.1”的网站</span></span><br><span class="line">ip=<span class="string">&quot;220.181.111.1/24&quot;</span>          <span class="comment"># 查询IP为“220.181.111.1”的C网段资产</span></span><br><span class="line">status_code=<span class="string">&quot;402&quot;</span>              <span class="comment"># 查询服务器状态为“402”的资产</span></span><br><span class="line">app=<span class="string">&quot;通达OA网络智能办公系统&quot;</span>       <span class="comment"># 搜索通达OA系统</span></span><br><span class="line">country=<span class="string">&quot;CN&quot;</span>                   <span class="comment"># 搜索指定国家(编码)的资产</span></span><br><span class="line">region=<span class="string">&quot;Henan&quot;</span>                 <span class="comment"># 搜索指定行政区的资产</span></span><br></pre></td></tr></table></figure></div>
+
+
+
+<hr>
+<p><strong>再次提醒：本笔记内容仅用于学习和研究目的，严禁用于任何非法活动。如有违反，责任由使用者自行承担。</strong></p>
+]]></content>
+      <categories>
+        <category>网络安全</category>
+      </categories>
+      <tags>
+        <tag>信息收集</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>软件工具使用</title>
+    <url>/2025/02/11/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<h1 id="BurpSuite"><a href="#BurpSuite" class="headerlink" title="BurpSuite"></a>BurpSuite</h1><h2 id="简单使用暴破密码"><a href="#简单使用暴破密码" class="headerlink" title="简单使用暴破密码"></a>简单使用暴破密码</h2><p><strong>暴破一个参数</strong></p>
+<ol>
+<li>浏览器选择一下代理。</li>
+<li>进入Burp，点击 <code>Proxy -&gt; Intercept is on</code> 进入抓包状态。</li>
+<li>浏览器登录页面输入<code>账号</code> 和<code>密码</code> 。</li>
+<li>Burp抓到数据包，<code>右键 -&gt; Send to Intruder</code> ，把数据包发到 <code>攻击模块</code> 。</li>
+<li>进入<code>Intruder -&gt; Positions</code> ，选择添加要暴破的参数 <code>§123456§&amp;</code> 。</li>
+<li>上方选择 <code>Sniper</code> （只暴破一个参数），然后点击上方 <code>Payloads</code> 。</li>
+<li>在 <code>Payload Options</code> 点击<code>Load</code> 选择字典。</li>
+<li>在 <code>Payload Encoding</code> 取消勾选URL编码。</li>
+<li>点击上方 <code>Resource Pool</code> ，设置线程，默认10。下方可以更改。</li>
+<li>点击上方 <code>Options</code> （不能根据长度判断，添加一个过滤规则） ，在 <code>Grep-Match</code> 处添加页面不正确的标志 <code>username or password is not exists</code> ，则暴破完成后，页面里有这个标志的会打对勾。即正确的页面没有对勾，可以帮助快速筛。（也可以添加正确的标志）</li>
+<li>然后点击 <code>Start attack</code> ，开始暴破。</li>
+<li>暴破完成后，根据 <code>Length</code> （有时候不管用）选择出正确的 <code>密码</code> 。</li>
+</ol>
+<blockquote>
+<p>注：暴破完成后，随便选择一个数据包，点击 <code>Response -&gt; Render</code> 可以查看网页详情。</p>
+</blockquote>
+<p><strong>暴破两个参数</strong>（多账号暴破）</p>
+<ol>
+<li>暴破方式选择 <code>Cluster bomb</code> （集束炸弹）</li>
+<li>然后分别为两个参数 <code>选择字典</code> 或 <code>添加可能的值</code> 。</li>
+<li>不勾选 <code>Payload Encoding</code> （URL编码）。</li>
+<li>在 <code>Options -&gt; Grep-Match </code> 处添加页面不正确的标志 </li>
+<li>其它同上，然后进行暴破。</li>
+</ol>
+<p><strong>暴破自己的网站</strong></p>
+<ol>
+<li>在 <code>Option</code> 的 <code>Redirections</code> 处勾选，是否允许跳转。 </li>
+<li>允许状态码是 <code>200</code>，不允许状态码 <code>302</code></li>
+</ol>
+<h2 id="暴破有token验证的密码"><a href="#暴破有token验证的密码" class="headerlink" title="暴破有token验证的密码"></a>暴破有token验证的密码</h2><ol>
+<li>抓数据包，放入 <code>Intruder</code> 模块。</li>
+<li>选择暴破参数，暴破模式选择 <code>Pitchfork</code> （干草叉）。</li>
+<li>第一个参数（密码）选择 <code>Simple List</code> ，然后选择一个字典。</li>
+<li>第二个参数（token）选择 <code>Recursive grep</code> ，然后点击 <code>Options</code> </li>
+<li>在 <code>Grep-Extract</code> （自定义获取页面某些内容）点击 <code>Add -&gt; Refetch response</code> 然后搜索找到 <code>token</code> ，用鼠标选取token的值，工具会自动添加开始和结束，然后 <code>OK</code> 。（如果不小心多点了一下，那么就到页面重新拿一个新的token填入数据包）</li>
+<li>回到 <code>Payloads</code> ，会发现 <code>Payload Options</code> 里面已经拿到 <code>token</code> 的值。</li>
+<li>然后在页面刷新一下，获取一个未使用的 <code>token</code> ，用于第一次请求页面。然后把这个 <code>token</code> 填入下面的文本框内。</li>
+<li>然后在 <code>Resource Pool</code> 出将线程改为 <code>1</code>。（干草叉模式，不能使用多线程）</li>
+<li>然后进行暴破。（如果暴破结果不好判断，添加一个页面不正确的标志，再进行暴破）</li>
+</ol>
+<blockquote>
+<p>注：token不支持账号密码一块暴破</p>
+</blockquote>
+<h2 id="Basic认证爆破"><a href="#Basic认证爆破" class="headerlink" title="Basic认证爆破"></a>Basic认证爆破</h2><ol>
+<li><p>抓包，放入 <code>Intruder</code> 模块。</p>
+</li>
+<li><p>选择暴破参数 <code>Basic</code> 后面的内容。</p>
+</li>
+<li><p>选择 <code>Sniper</code> 模式。</p>
+</li>
+<li><p>点击 <code>Payloads</code> 选择 <code>Custom iterator</code> （分段）。</p>
+</li>
+<li><p>第一段（账号） <code>Position</code> 选择 <code>1</code> ，添加 <code>tomcat</code>；</p>
+<p>第一段（:） <code>Position</code> 选择 <code>1</code> ，添加 <code>:</code> （冒号）；</p>
+<p>第一段（密码） <code>Position</code> 选择 <code>1</code> ，添加 <code>暴破字典</code> 。</p>
+</li>
+<li><p>在 <code>Payload Processing</code> ，添加一个编码规则。<code>Add</code>  选择 <code>Encode</code> 和 <code>Base64-encode</code> ，点击 <code>OK</code> 。</p>
+</li>
+<li><p>不勾选URL编码。</p>
+</li>
+<li><p>线程选低一点。</p>
+</li>
+<li><p>然后进行暴破。暴破完成后，选择正确的数据包，选中被加密的密码，<code>Ctrl+Shift+B（不行的话试试D）</code> 进行解码。</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>软件工具使用</category>
+      </categories>
+      <tags>
+        <tag>BurpSuite</tag>
+        <tag>masscan</tag>
+      </tags>
   </entry>
 </search>
