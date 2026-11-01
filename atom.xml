@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>佛狸祠</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://fulici.github.io/</id>
+  <link href="https://fulici.github.io/" rel="alternate"/>
+  <link href="https://fulici.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 佛狸祠</rights>
+  <subtitle>把学习、思考与实践，慢慢写下来</subtitle>
+  <title>佛狸祠</title>
+  <updated>2026-11-01T12:36:26.317Z</updated>
+  <entry>
+    <author>
+      <name>佛狸祠</name>
+    </author>
+    <category term="建站" scheme="https://fulici.github.io/categories/%E5%BB%BA%E7%AB%99/"/>
+    <category term="Hexo" scheme="https://fulici.github.io/tags/Hexo/"/>
+    <category term="GitHub Pages" scheme="https://fulici.github.io/tags/GitHub-Pages/"/>
+    <category term="教程" scheme="https://fulici.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    <content>
+      <![CDATA[<p>这个博客由 Hexo 生成静态页面，再发布到 GitHub Pages。整个过程可以拆成三个部分：写作、构建和发布。</p><h2 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h2><p>在博客源码目录中新建文章：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npx hexo new post <span class="hljs-string">&quot;文章标题&quot;</span><br></code></pre></td></tr></table></figure><p>随后编辑 <code>source/_posts</code> 目录中的 Markdown 文件。本地预览时运行：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm run server<br></code></pre></td></tr></table></figure><p>打开 <code>http://localhost:4000</code> 即可查看效果。</p><h2 id="构建"><a href="#构建" class="headerlink" title="构建"></a>构建</h2><p>Markdown 只是一份源文件。Hexo 会把文章、主题和站点配置合成为静态网站：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm run build<br></code></pre></td></tr></table></figure><p>构建结果位于 <code>public</code> 目录。这个目录不应该手工修改，因为下一次构建时内容会被重新生成。</p><h2 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h2><p>运行：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm run deploy<br></code></pre></td></tr></table></figure><p>Hexo 会将构建结果提交到 GitHub Pages 仓库。GitHub 收到新提交后会自动更新网站。</p><h2 id="日常节奏"><a href="#日常节奏" class="headerlink" title="日常节奏"></a>日常节奏</h2><p>以后每次写博客，只需要完成三步：</p><ol><li>新建或编辑 Markdown 文章。</li><li>本地预览并检查排版。</li><li>构建、发布并访问线上地址确认。</li></ol><p>工具应该让记录变得简单。把重复的构建和发布交给命令，把注意力留给真正想写下的内容。</p>]]>
+    </content>
+    <id>https://fulici.github.io/posts/hexo-github-pages-guide/</id>
+    <link href="https://fulici.github.io/posts/hexo-github-pages-guide/"/>
+    <published>2026-11-01T13:00:00.000Z</published>
+    <summary>从本地写作到自动部署，记录这套博客的工作方式。</summary>
+    <title>使用 Hexo 和 GitHub Pages 搭建个人博客</title>
+    <updated>2026-11-01T12:36:26.317Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>佛狸祠</name>
+    </author>
+    <category term="生活" scheme="https://fulici.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://fulici.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<p>欢迎来到我的个人博客。</p><p>这里会记录技术学习中的方法、踩过的坑，也会留下对生活和阅读的思考。写作不是为了把每一件事都说得完整，而是为了让当时的理解有一个可以回看的地方。</p><h2 id="从这里开始"><a href="#从这里开始" class="headerlink" title="从这里开始"></a>从这里开始</h2><p>博客使用 <a href="https://hexo.io/">Hexo</a> 构建，托管在 GitHub Pages。文章以 Markdown 编写，源码和发布流程都可以在 GitHub 上追踪。</p><p>希望以后回看今天时，会发现这个简单的起点，连接着一条还不错的旅程。</p>]]>
+    </content>
+    <id>https://fulici.github.io/posts/hello-world/</id>
+    <link href="https://fulici.github.io/posts/hello-world/"/>
+    <published>2026-11-01T12:30:00.000Z</published>
+    <summary>新博客的第一篇文字，也是一段新的记录。</summary>
+    <title>写在开始</title>
+    <updated>2026-11-01T12:36:23.074Z</updated>
+  </entry>
+</feed>
